@@ -1,0 +1,612 @@
+{
+  "form": [
+    {
+      "id": "1",
+      "type": "Restaurant ve Cafe",
+      "name": "The House",
+      "address": "Ecevit Cd, Girne 9935",
+      "location": {
+        "latitude": "25.77427",
+        "longitude": "-80.19366"
+      },
+      "mainImage": "assets/img/api/TheHouse/1.webp",
+      "images": [
+        "assets/img/api/TheHouse/1.webp",
+        "assets/img/api/TheHouse/2.webp",
+        "assets/img/api/TheHouse/3.webp"
+      ],
+      "openTimes": [
+        {
+          "day": "Monday",
+          "open": "12:00",
+          "close": "23:59"
+        },
+        {
+          "day": "Tuesday",
+          "open": "12:00",
+          "close": "23:59"
+        },
+        {
+          "day": "Wednesday",
+          "open": "12:00",
+          "close": "23:59"
+        },
+        {
+          "day": "Thursday",
+          "open": "12:00",
+          "close": "23:59"
+        },
+        {
+          "day": "Friday",
+          "open": "12:00",
+          "close": "23:59"
+        },
+        {
+          "day": "Saturday",
+          "open": "10:00",
+          "close": "23:59"
+        },
+        {
+          "day": "Sunday",
+          "open": "10:00",
+          "close": "23:59"
+        }
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
+        "WheelchairAccessibleEntrance": true
+      },
+      "sorting": {
+        "popular": true,
+        "alcohol": true,
+        "coffee": true,
+        "Kyrenia": true
+      },
+      "currencies": ["TR"],
+      "petsAllow": false,
+      "map": "https://www.google.com/maps/place/The+House+Lounge+Bar+%26+Restaurant/@35.3385196,33.3200298,19.25z/data=!4m14!1m7!3m6!1s0x14de6ccecd42e14f:0x53e0665b7becaf44!2sThe+House+Lounge+Bar+%26+Restaurant!8m2!3d35.3383712!4d33.3205337!16s%2Fg%2F1tj6l8r5!3m5!1s0x14de6ccecd42e14f:0x53e0665b7becaf44!8m2!3d35.3383712!4d33.3205337!16s%2Fg%2F1tj6l8r5?entry=ttu",
+      "phone": "+90 392 816 1010",
+      "mail": "info@arkingroup.com",
+      "website": "https://www.arkingroup.com/tr/thehouse",
+      "socialMedias": {
+        "instagram": "https://www.instagram.com/thehousethegarden/",
+        "twitter": "",
+        "facebook": "https://www.facebook.com/thehouseandthegarden/?locale=tr_TR",
+        "pinterest": ""
+      },
+      "description": "The House Restaurant, situated in the centre of Kyrenia, is the town’s premier venue for stylish and innovative international cuisine. Designed by RPW, renowned UK interior designers in the field of hospitality, The House delivers a charming blend of old Cypriot tradition and modern chic. Each room of the restaurant has a different quirky style, from low-light and intimate to brash and breezy, and all are enhanced with art-work from around the world.            The eclectic visual richness is reflected in the menus which offer an exciting blend of Cypriot/Turkish and international cuisine. The drinks menu is amongst the richest on the island and the consummate staff are adept at mixing the world’s favourite cocktails"
+    },
+    {
+      "id": "2",
+      "type": "Gezilecek Yer",
+      "name": "Bellapais Manastırı",
+      "address": "8944+R39, Beylerbeyi 99320",
+      "website": "https://tr.wikipedia.org/wiki/Bellapais_Manast%C4%B1r%C4%B1",
+      "location": {
+        "latitude": "39.7392",
+        "longitude": "-104.9903"
+      },
+      "mainImage": "assets/img/api/Bellapais/1.jpg",
+      "images": [
+        "assets/img/api/Bellapais/1.jpg",
+        "assets/img/api/Bellapais/2.jpg",
+        "assets/img/api/Bellapais/3.jpg",
+        "assets/img/api/Bellapais/4.jpg"
+      ],
+      "openTimes": [
+        {
+          "day": "Monday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Friday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "WheelchairAccessibleEntrance": true
+      },
+      "sorting": {
+        "popular": true,
+        "historicalPlaces": true,
+        "castles": true,
+        "Kyrenia": true
+      },
+      "currencies": ["TR"],
+      "petsAllow": false,
+      "map": "https://www.google.com/maps/place/Bellapais+Manast%C4%B1r%C4%B1/@35.3070375,33.3526679,17z/data=!3m1!4b1!4m6!3m5!1s0x14de14a415bc7e4d:0x6fd9e83d7af025f9!8m2!3d35.3070331!4d33.3552428!16s%2Fg%2F121hfk_2?hl=tr&entry=ttu",
+      "mail": "",
+      "phone": "",
+      "socialMedias": {
+        "instagram": "",
+        "twitter": "",
+        "facebook": "",
+        "pinterest": ""
+      },
+      "description": "Gotik yapıdır. Augustinian tarikatına ait olan bu manastır, yüksek tavanlı kilisesi ve kemerli revaklarıyla dikkat çeker. Beşparmak Dağları'nın eteklerindeki konumuyla muhteşem manzaralar sunan manastır, günümüzde turistler ve kültürel etkinlikler için popüler bir destinasyondur. Yakındaki Bellapais köyü ise dar sokakları ve taş evleriyle tipik bir Akdeniz atmosferi sunar."
+    },
+    {
+      "id": "3",
+      "type": "Restaurant ve Cafe",
+      "name": "Raica Restaurant",
+      "address": "İsmet İnönü Cad. Esentepe Halk Plajı Sk. No:1 Çatalköy, Esentepe",
+      "website": "https://www.hilltowncyprus.com/raica/Raica_Menu.pdf",
+      "location": {
+        "latitude": "40.7128",
+        "longitude": "-74.0060"
+      },
+      "mainImage": "assets/img/api/Raica/5.jpg",
+      "images": [
+        "assets/img/api/Raica/1.png",
+        "assets/img/api/Raica/2.jpg",
+        "assets/img/api/Raica/3.jpg",
+        "assets/img/api/Raica/4.jpg",
+        "assets/img/api/Raica/5.jpg"
+      ],
+      "openTimes": [
+        {
+          "day": "Monday",
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Friday",
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true
+      },
+      "sorting": {
+        "alcohol": true,
+        "coffee": true,
+        "Kyrenia": true
+      },
+      "currencies": ["TR"],
+      "petsAllow": false,
+      "map": "https://www.google.com/maps/place/Raica+Restaurant/@35.3532872,33.5927632,17z/data=!3m1!4b1!4m6!3m5!1s0x14de45d70c528e55:0xdf2eaee1f532fe97!8m2!3d35.3532829!4d33.5953381!16s%2Fg%2F11vprxmnxw?entry=ttu",
+      "mail": "",
+      "phone": "+90 539 108 7777",
+      "socialMedias": {
+        "instagram": "https://www.instagram.com/raicarestaurant/",
+        "twitter": "",
+        "facebook": "",
+        "pinterest": ""
+      },
+      "description": "Raica Restaurant, Akdeniz mutfağının özgün ve leziz tatlarını modern ve şık bir ortamda sunan seçkin bir mekandır. Restoran, kaliteli malzemelerle hazırlanmış yemekleri ve yaratıcı sunumlarıyla misafirlerine unutulmaz bir gastronomi deneyimi yaşatır. Hem yerel hem de uluslararası tatlara yer veren menüsü, her damak zevkine hitap eder. Raica Restaurant, samimi ve sıcak atmosferiyle aile yemeklerinden özel kutlamalara kadar her türlü etkinlik için ideal bir mekandır. Restoranın özenle dekore edilmiş iç mekanı ve profesyonel hizmet anlayışı, misafirlerine keyifli anlar vaat eder."
+    },
+    {
+      "id": "4",
+      "type": "Restaurant ve Cafe",
+      "name": "Esentepe Califorian",
+      "address": "Maldives Homes, Bahçeli",
+      "website": "https://www.califorianrestaurant.com/califorian-esentepe",
+      "location": {
+        "latitude": "39.0968",
+        "longitude": "-120.0324"
+      },
+      "mainImage": "assets/img/api/EsentepeCaliforian/1.jpg",
+      "images": [
+        "assets/img/api/EsentepeCaliforian/1.jpg",
+        "assets/img/api/EsentepeCaliforian/2.jpg",
+        "assets/img/api/EsentepeCaliforian/3.jpg",
+        "assets/img/api/EsentepeCaliforian/4.jpg",
+        "assets/img/api/EsentepeCaliforian/5.jpg"
+      ],
+      "openTimes": [
+        {
+          "day": "Monday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Friday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
+        "WheelchairAccessibleEntrance": true
+      },
+      "sorting": {
+        "alcohol": true,
+        "coffee": true,
+        "Kyrenia": true
+      },
+      "currencies": ["TR"],
+      "petsAllow": false,
+      "map": "https://maps.example.com/lakesideinn",
+      "mail": "info@califorianrestaurant.com",
+      "phone": "+90 (392) 444 7070",
+      "socialMedias": {
+        "instagram": "https://www.instagram.com/califorian/",
+        "twitter": "",
+        "facebook": "https://www.facebook.com/CaliforianRestaurants",
+        "pinterest": ""
+      },
+      "description": "Califorian Restaurant, Esentepe'de yer alan ve benzersiz bir yemek deneyimi sunan bir mekandır. Restoran, muhteşem deniz manzarası ve rahatlatıcı atmosferiyle misafirlerine huzurlu bir ortam sağlar. Califorian Restaurant, taze ve kaliteli malzemelerle hazırlanan geniş bir menüye sahiptir; özellikle deniz ürünleri ve Akdeniz mutfağının lezzetleri ön plandadır. Zarif dekorasyonu ve güler yüzlü hizmeti ile dikkat çeken bu restoran, hem gündüz hem de akşam yemekleri için ideal bir seçenektir. Califorian Restaurant, özel kutlamalar ve romantik akşam yemekleri için de mükemmel bir mekandır."
+    },
+    {
+      "id": "5",
+      "type": "Gezilecek Yer",
+      "name": "Minia Kıbrıs",
+      "address": "Tatlısu",
+      "website": "https://tr.wikipedia.org/wiki/Minia_K%C4%B1br%C4%B1s_M%C3%BCzesi",
+      "location": {
+        "latitude": "33.4484",
+        "longitude": "-112.0740"
+      },
+      "mainImage": "assets/img/api/MiniaKıbrıs/1.jpg",
+      "images": [
+        "assets/img/api/MiniaKıbrıs/1.jpg",
+        "assets/img/api/MiniaKıbrıs/2.jpg",
+        "assets/img/api/MiniaKıbrıs/3.jpg",
+        "assets/img/api/MiniaKıbrıs/4.jpg"
+      ],
+      "openTimes": [
+        {
+          "day": "Monday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Friday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
+        "WheelchairAccessibleEntrance": true
+      },
+      "sorting": {
+        "museum": true,
+        "Kyrenia": true,
+        "creativePlaces": true
+      },
+      "currencies": ["TR"],
+      "petsAllow": false,
+      "map": "https://www.google.com/maps/place/Minia+K%C4%B1br%C4%B1s/@35.4049408,33.7799687,17z/data=!3m1!4b1!4m6!3m5!1s0x14dfaca3441922f9:0x57ea38143eb58961!8m2!3d35.4049365!4d33.7825436!16s%2Fg%2F11c55jykp4?entry=ttu",
+      "mail": "",
+      "phone": "",
+      "socialMedias": {
+        "instagram": "",
+        "twitter": "",
+        "facebook": "",
+        "pinterest": ""
+      },
+      "description": "Minia Kıbrıs Tatlısu'da yer alan manastır, adanın tarihi ve kültürel zenginliklerini yansıtan önemli bir yapıdır. Bu manastır, Kıbrıs'ın Orta Çağ'dan kalan dini ve mimari miraslarından biri olup, adanın çeşitli dönemlerindeki dini hayatına ışık tutar. Manastırın inşa edildiği dönem ve mimari özellikleri, Kıbrıs'ta yaşayan farklı medeniyetlerin izlerini taşır. Taş yapıları, kemerli revakları ve sakin avlusuyla ziyaretçilere huzurlu bir atmosfer sunan bu manastır, aynı zamanda bölgenin doğal güzellikleriyle de iç içe bir konumdadır. Minia Kıbrıs Tatlısu Manastırı, tarih meraklıları ve turistler için görülmeye değer bir destinasyondur, ziyaretçilerine hem geçmişe dair bir yolculuk hem de Kıbrıs'ın doğal ve kültürel dokusunu keşfetme fırsatı sunar."
+    },
+    {
+      "id": "6",
+      "type": "Gezilecek Yer",
+      "name": "St. Hilarion Kalesi",
+      "address": "876J+HCG St. Hilarion, Karaman 99320",
+      "website": "https://tr.wikipedia.org/wiki/Saint_Hilarion_Kalesi",
+      "location": {
+        "latitude": "45.5155",
+        "longitude": "-122.6793"
+      },
+      "mainImage": "assets/img/api/StHilarionKalesi/1.jpg",
+      "images": [
+        "assets/img/api/StHilarionKalesi/1.jpg",
+        "assets/img/api/StHilarionKalesi/2.jpg"
+      ],
+      "openTimes": [
+        {
+          "day": "Monday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Friday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
+        "WheelchairAccessibleEntrance": true
+      },
+      "sorting": {
+        "popular": true,
+        "museum": true,
+        "Kyrenia": true,
+        "nicosia": true,
+        "creativePlaces": true,
+        "historicalPlaces": true,
+        "castles": true
+      },
+      "currencies": ["TR"],
+      "petsAllow": false,
+      "map": "https://www.google.com/maps/place/St.+Hilarion+Kalesi/@35.311432,33.281086,17z/data=!3m1!4b1!4m6!3m5!1s0x14de128cccf88d39:0x17389a90a2643e5b!8m2!3d35.311432!4d33.281086!16s%2Fg%2F11fxzr1pvk?entry=ttu",
+      "mail": "",
+      "phone": "",
+      "socialMedias": {
+        "instagram": "",
+        "twitter": "",
+        "facebook": "",
+        "pinterest": ""
+      },
+      "description": "St. Hilarion Kalesi, Girne yakınlarındaki Beşparmak Dağları'nda yer alan ve 10. yüzyılda Bizans İmparatorluğu tarafından inşa edilen tarihi bir yapıdır. Adını, buraya yerleşen keşiş St. Hilarion'dan alan kale, stratejik konumu sayesinde korsan saldırılarına karşı savunma amacıyla kullanılmıştır. Lüzinyanlar ve Venedikliler döneminde genişletilen kale, üç ana bölüme ayrılmıştır: askerlerin kaldığı alt bölüm, kraliyet ailesinin yaşam alanları ve kilisenin bulunduğu orta bölüm ile gözlem ve savunma amaçlı kullanılan üst bölüm. Günümüzde turistler için popüler bir destinasyon olan St. Hilarion Kalesi, ziyaretçilere tarihî bir yolculuk sunarken, Girne ve Akdeniz'in muhteşem manzaralarını da gözler önüne serer."
+    },
+    {
+      "id": "7",
+      "type": "Restaurant ve Cafe",
+      "name": "Chinese House",
+      "address": "Karaoğlanoğlu Cd No:20, Girne 99300",
+      "website": "https://www.chinesehousecyprus.net/",
+      "location": {
+        "latitude": "45.5155",
+        "longitude": "-122.6793"
+      },
+      "mainImage": "assets/img/api/ChineseHouse/1.jpg",
+      "images": [
+        "assets/img/api/ChineseHouse/1.jpg",
+        "assets/img/api/ChineseHouse/2.jpg",
+        "assets/img/api/ChineseHouse/3.jpg"
+      ],
+      "openTimes": [
+        {
+          "day": "Monday",
+          "open": "00:00",
+          "close": "00:01"
+        },
+        {
+          "day": "Tuesday",
+          "open": "18:30",
+          "close": "23:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "18:30",
+          "close": "23:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "18:30",
+          "close": "23:00"
+        },
+        {
+          "day": "Friday",
+          "open": "18:30",
+          "close": "23:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "18:30",
+          "close": "23:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "18:30",
+          "close": "23:00"
+        }
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
+        "WheelchairAccessibleEntrance": true
+      },
+      "sorting": {
+        "popular": true,
+        "alcohol": true,
+        "Kyrenia": true
+      },
+      "currencies": ["TR"],
+      "petsAllow": false,
+      "map": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x14de6d2d28bd6537:0xaf7668b29e725e70?sa=X&ved=1t:8290&ictx=111",
+      "mail": " info@chinesehousecyprus.net",
+      "phone": "+90 (542) 851 4080",
+      "socialMedias": {
+        "instagram": "",
+        "twitter": "",
+        "facebook": "https://www.facebook.com/ChineseHouseCyprus?fref=ts",
+        "pinterest": ""
+      },
+      "description": "Chinese House Cyprus, Kıbrıs'ta otantik Çin mutfağının lezzetlerini sunan seçkin bir restorandır. Geleneksel Çin yemeklerinin ustalıkla hazırlandığı bu mekanda, taze ve kaliteli malzemelerle yapılan yemekler dikkat çeker. Zarif ve şık bir atmosfere sahip olan Chinese House Cyprus, misafirlerine hem görsel hem de damak tadına hitap eden bir deneyim sunar. Menüsünde yer alan çeşitli dim sum, noodle ve stir-fry seçenekleri ile her damak zevkine uygun lezzetler bulmak mümkündür. Restoran, güler yüzlü hizmeti ve özenle dekore edilmiş iç mekanı ile hem aile yemekleri hem de özel kutlamalar için ideal bir seçimdir."
+    },
+    {
+      "id": "0bf0"
+    }
+  ]
+}
