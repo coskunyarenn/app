@@ -1,7 +1,7 @@
 {
   "form": [
     {
-      "id": "1",
+      "id": 1,
       "type": "Restaurant ve Cafe",
       "name": "The House",
       "address": "Ecevit Cd, Girne 9935",
@@ -16,41 +16,13 @@
         "assets/img/api/TheHouse/3.webp"
       ],
       "openTimes": [
-        {
-          "day": "Monday",
-          "open": "12:00",
-          "close": "23:59"
-        },
-        {
-          "day": "Tuesday",
-          "open": "12:00",
-          "close": "23:59"
-        },
-        {
-          "day": "Wednesday",
-          "open": "12:00",
-          "close": "23:59"
-        },
-        {
-          "day": "Thursday",
-          "open": "12:00",
-          "close": "23:59"
-        },
-        {
-          "day": "Friday",
-          "open": "12:00",
-          "close": "23:59"
-        },
-        {
-          "day": "Saturday",
-          "open": "10:00",
-          "close": "23:59"
-        },
-        {
-          "day": "Sunday",
-          "open": "10:00",
-          "close": "23:59"
-        }
+        {"day": "Monday", "open": "12:00", "close": "23:59"},
+        {"day": "Tuesday", "open": "12:00", "close": "23:59"},
+        {"day": "Wednesday", "open": "12:00", "close": "23:59"},
+        {"day": "Thursday", "open": "12:00", "close": "23:59"},
+        {"day": "Friday", "open": "12:00", "close": "23:59"},
+        {"day": "Saturday", "open": "10:00", "close": "23:59"},
+        {"day": "Sunday", "open": "10:00", "close": "23:59"}
       ],
       "expectations": {
         "outsideArea": true,
@@ -71,7 +43,7 @@
         "popular": true,
         "alcohol": true,
         "coffee": true,
-        "Kyrenia": true
+        "kyrenia": true
       },
       "currencies": ["TR"],
       "petsAllow": false,
@@ -88,7 +60,7 @@
       "description": "The House Restaurant, situated in the centre of Kyrenia, is the town’s premier venue for stylish and innovative international cuisine. Designed by RPW, renowned UK interior designers in the field of hospitality, The House delivers a charming blend of old Cypriot tradition and modern chic. Each room of the restaurant has a different quirky style, from low-light and intimate to brash and breezy, and all are enhanced with art-work from around the world.            The eclectic visual richness is reflected in the menus which offer an exciting blend of Cypriot/Turkish and international cuisine. The drinks menu is amongst the richest on the island and the consummate staff are adept at mixing the world’s favourite cocktails"
     },
     {
-      "id": "2",
+      "id": 2,
       "type": "Gezilecek Yer",
       "name": "Bellapais Manastırı",
       "address": "8944+R39, Beylerbeyi 99320",
@@ -105,41 +77,13 @@
         "assets/img/api/Bellapais/4.jpg"
       ],
       "openTimes": [
-        {
-          "day": "Monday",
-          "open": "08:00",
-          "close": "18:00"
-        },
-        {
-          "day": "Tuesday",
-          "open": "08:00",
-          "close": "18:00"
-        },
-        {
-          "day": "Wednesday",
-          "open": "08:00",
-          "close": "18:00"
-        },
-        {
-          "day": "Thursday",
-          "open": "08:00",
-          "close": "18:00"
-        },
-        {
-          "day": "Friday",
-          "open": "08:00",
-          "close": "18:00"
-        },
-        {
-          "day": "Saturday",
-          "open": "08:00",
-          "close": "18:00"
-        },
-        {
-          "day": "Sunday",
-          "open": "08:00",
-          "close": "18:00"
-        }
+        {"day": "Monday", "open": "08:00", "close": "18:00"},
+        {"day": "Tuesday", "open": "08:00", "close": "18:00"},
+        {"day": "Wednesday", "open": "08:00", "close": "18:00"},
+        {"day": "Thursday", "open": "08:00", "close": "18:00"},
+        {"day": "Friday", "open": "08:00", "close": "18:00"},
+        {"day": "Saturday", "open": "08:00", "close": "18:00"},
+        {"day": "Sunday", "open": "08:00", "close": "18:00"}
       ],
       "expectations": {
         "outsideArea": true,
@@ -153,7 +97,7 @@
         "popular": true,
         "historicalPlaces": true,
         "castles": true,
-        "Kyrenia": true
+        "kyrenia": true
       },
       "currencies": ["TR"],
       "petsAllow": false,
@@ -169,7 +113,7 @@
       "description": "Gotik yapıdır. Augustinian tarikatına ait olan bu manastır, yüksek tavanlı kilisesi ve kemerli revaklarıyla dikkat çeker. Beşparmak Dağları'nın eteklerindeki konumuyla muhteşem manzaralar sunan manastır, günümüzde turistler ve kültürel etkinlikler için popüler bir destinasyondur. Yakındaki Bellapais köyü ise dar sokakları ve taş evleriyle tipik bir Akdeniz atmosferi sunar."
     },
     {
-      "id": "3",
+      "id": 3,
       "type": "Restaurant ve Cafe",
       "name": "Raica Restaurant",
       "address": "İsmet İnönü Cad. Esentepe Halk Plajı Sk. No:1 Çatalköy, Esentepe",
@@ -187,41 +131,13 @@
         "assets/img/api/Raica/5.jpg"
       ],
       "openTimes": [
-        {
-          "day": "Monday",
-          "open": "09:00",
-          "close": "22:00"
-        },
-        {
-          "day": "Tuesday",
-          "open": "09:00",
-          "close": "22:00"
-        },
-        {
-          "day": "Wednesday",
-          "open": "09:00",
-          "close": "22:00"
-        },
-        {
-          "day": "Thursday",
-          "open": "09:00",
-          "close": "22:00"
-        },
-        {
-          "day": "Friday",
-          "open": "09:00",
-          "close": "22:00"
-        },
-        {
-          "day": "Saturday",
-          "open": "09:00",
-          "close": "22:00"
-        },
-        {
-          "day": "Sunday",
-          "open": "09:00",
-          "close": "22:00"
-        }
+        {"day": "Monday", "open": "09:00", "close": "22:00"},
+        {"day": "Tuesday", "open": "09:00", "close": "22:00"},
+        {"day": "Wednesday", "open": "09:00", "close": "22:00"},
+        {"day": "Thursday", "open": "09:00", "close": "22:00"},
+        {"day": "Friday", "open": "09:00", "close": "22:00"},
+        {"day": "Saturday", "open": "09:00", "close": "22:00"},
+        {"day": "Sunday", "open": "09:00", "close": "22:00"}
       ],
       "expectations": {
         "outsideArea": true,
@@ -240,7 +156,7 @@
       "sorting": {
         "alcohol": true,
         "coffee": true,
-        "Kyrenia": true
+        "kyrenia": true
       },
       "currencies": ["TR"],
       "petsAllow": false,
@@ -256,7 +172,7 @@
       "description": "Raica Restaurant, Akdeniz mutfağının özgün ve leziz tatlarını modern ve şık bir ortamda sunan seçkin bir mekandır. Restoran, kaliteli malzemelerle hazırlanmış yemekleri ve yaratıcı sunumlarıyla misafirlerine unutulmaz bir gastronomi deneyimi yaşatır. Hem yerel hem de uluslararası tatlara yer veren menüsü, her damak zevkine hitap eder. Raica Restaurant, samimi ve sıcak atmosferiyle aile yemeklerinden özel kutlamalara kadar her türlü etkinlik için ideal bir mekandır. Restoranın özenle dekore edilmiş iç mekanı ve profesyonel hizmet anlayışı, misafirlerine keyifli anlar vaat eder."
     },
     {
-      "id": "4",
+      "id": 4,
       "type": "Restaurant ve Cafe",
       "name": "Esentepe Califorian",
       "address": "Maldives Homes, Bahçeli",
@@ -274,41 +190,13 @@
         "assets/img/api/EsentepeCaliforian/5.jpg"
       ],
       "openTimes": [
-        {
-          "day": "Monday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Tuesday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Wednesday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Thursday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Friday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Saturday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Sunday",
-          "open": "08:00",
-          "close": "17:00"
-        }
+        {"day": "Monday", "open": "08:00", "close": "17:00"},
+        {"day": "Tuesday", "open": "08:00", "close": "17:00"},
+        {"day": "Wednesday", "open": "08:00", "close": "17:00"},
+        {"day": "Thursday", "open": "08:00", "close": "17:00"},
+        {"day": "Friday", "open": "08:00", "close": "17:00"},
+        {"day": "Saturday", "open": "08:00", "close": "17:00"},
+        {"day": "Sunday", "open": "08:00", "close": "17:00"}
       ],
       "expectations": {
         "outsideArea": true,
@@ -328,7 +216,7 @@
       "sorting": {
         "alcohol": true,
         "coffee": true,
-        "Kyrenia": true
+        "kyrenia": true
       },
       "currencies": ["TR"],
       "petsAllow": false,
@@ -344,7 +232,7 @@
       "description": "Califorian Restaurant, Esentepe'de yer alan ve benzersiz bir yemek deneyimi sunan bir mekandır. Restoran, muhteşem deniz manzarası ve rahatlatıcı atmosferiyle misafirlerine huzurlu bir ortam sağlar. Califorian Restaurant, taze ve kaliteli malzemelerle hazırlanan geniş bir menüye sahiptir; özellikle deniz ürünleri ve Akdeniz mutfağının lezzetleri ön plandadır. Zarif dekorasyonu ve güler yüzlü hizmeti ile dikkat çeken bu restoran, hem gündüz hem de akşam yemekleri için ideal bir seçenektir. Califorian Restaurant, özel kutlamalar ve romantik akşam yemekleri için de mükemmel bir mekandır."
     },
     {
-      "id": "5",
+      "id": 5,
       "type": "Gezilecek Yer",
       "name": "Minia Kıbrıs",
       "address": "Tatlısu",
@@ -353,49 +241,21 @@
         "latitude": "33.4484",
         "longitude": "-112.0740"
       },
-      "mainImage": "assets/img/api/MiniaKıbrıs/1.jpg",
+      "mainImage": "assets/img/api/MiniaKibris/1.jpg",
       "images": [
-        "assets/img/api/MiniaKıbrıs/1.jpg",
-        "assets/img/api/MiniaKıbrıs/2.jpg",
-        "assets/img/api/MiniaKıbrıs/3.jpg",
-        "assets/img/api/MiniaKıbrıs/4.jpg"
+        "assets/img/api/MiniaKibris/1.jpg",
+        "assets/img/api/MiniaKibris/2.jpg",
+        "assets/img/api/MiniaKibris/3.jpg",
+        "assets/img/api/MiniaKibris/4.jpg"
       ],
       "openTimes": [
-        {
-          "day": "Monday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Tuesday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Wednesday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Thursday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Friday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Saturday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Sunday",
-          "open": "08:00",
-          "close": "17:00"
-        }
+        {"day": "Monday", "open": "08:00", "close": "17:00"},
+        {"day": "Tuesday", "open": "08:00", "close": "17:00"},
+        {"day": "Wednesday", "open": "08:00", "close": "17:00"},
+        {"day": "Thursday", "open": "08:00", "close": "17:00"},
+        {"day": "Friday", "open": "08:00", "close": "17:00"},
+        {"day": "Saturday", "open": "08:00", "close": "17:00"},
+        {"day": "Sunday", "open": "08:00", "close": "17:00"}
       ],
       "expectations": {
         "outsideArea": true,
@@ -414,7 +274,7 @@
       },
       "sorting": {
         "museum": true,
-        "Kyrenia": true,
+        "kyrenia": true,
         "creativePlaces": true
       },
       "currencies": ["TR"],
@@ -431,7 +291,7 @@
       "description": "Minia Kıbrıs Tatlısu'da yer alan manastır, adanın tarihi ve kültürel zenginliklerini yansıtan önemli bir yapıdır. Bu manastır, Kıbrıs'ın Orta Çağ'dan kalan dini ve mimari miraslarından biri olup, adanın çeşitli dönemlerindeki dini hayatına ışık tutar. Manastırın inşa edildiği dönem ve mimari özellikleri, Kıbrıs'ta yaşayan farklı medeniyetlerin izlerini taşır. Taş yapıları, kemerli revakları ve sakin avlusuyla ziyaretçilere huzurlu bir atmosfer sunan bu manastır, aynı zamanda bölgenin doğal güzellikleriyle de iç içe bir konumdadır. Minia Kıbrıs Tatlısu Manastırı, tarih meraklıları ve turistler için görülmeye değer bir destinasyondur, ziyaretçilerine hem geçmişe dair bir yolculuk hem de Kıbrıs'ın doğal ve kültürel dokusunu keşfetme fırsatı sunar."
     },
     {
-      "id": "6",
+      "id": 6,
       "type": "Gezilecek Yer",
       "name": "St. Hilarion Kalesi",
       "address": "876J+HCG St. Hilarion, Karaman 99320",
@@ -441,46 +301,19 @@
         "longitude": "-122.6793"
       },
       "mainImage": "assets/img/api/StHilarionKalesi/1.jpg",
+
       "images": [
         "assets/img/api/StHilarionKalesi/1.jpg",
         "assets/img/api/StHilarionKalesi/2.jpg"
       ],
       "openTimes": [
-        {
-          "day": "Monday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Tuesday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Wednesday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Thursday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Friday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Saturday",
-          "open": "08:00",
-          "close": "17:00"
-        },
-        {
-          "day": "Sunday",
-          "open": "08:00",
-          "close": "17:00"
-        }
+        {"day": "Monday", "open": "08:00", "close": "17:00"},
+        {"day": "Tuesday", "open": "08:00", "close": "17:00"},
+        {"day": "Wednesday", "open": "08:00", "close": "17:00"},
+        {"day": "Thursday", "open": "08:00", "close": "17:00"},
+        {"day": "Friday", "open": "08:00", "close": "17:00"},
+        {"day": "Saturday", "open": "08:00", "close": "17:00"},
+        {"day": "Sunday", "open": "08:00", "close": "17:00"}
       ],
       "expectations": {
         "outsideArea": true,
@@ -500,7 +333,7 @@
       "sorting": {
         "popular": true,
         "museum": true,
-        "Kyrenia": true,
+        "kyrenia": true,
         "nicosia": true,
         "creativePlaces": true,
         "historicalPlaces": true,
@@ -520,7 +353,7 @@
       "description": "St. Hilarion Kalesi, Girne yakınlarındaki Beşparmak Dağları'nda yer alan ve 10. yüzyılda Bizans İmparatorluğu tarafından inşa edilen tarihi bir yapıdır. Adını, buraya yerleşen keşiş St. Hilarion'dan alan kale, stratejik konumu sayesinde korsan saldırılarına karşı savunma amacıyla kullanılmıştır. Lüzinyanlar ve Venedikliler döneminde genişletilen kale, üç ana bölüme ayrılmıştır: askerlerin kaldığı alt bölüm, kraliyet ailesinin yaşam alanları ve kilisenin bulunduğu orta bölüm ile gözlem ve savunma amaçlı kullanılan üst bölüm. Günümüzde turistler için popüler bir destinasyon olan St. Hilarion Kalesi, ziyaretçilere tarihî bir yolculuk sunarken, Girne ve Akdeniz'in muhteşem manzaralarını da gözler önüne serer."
     },
     {
-      "id": "7",
+      "id": 7,
       "type": "Restaurant ve Cafe",
       "name": "Chinese House",
       "address": "Karaoğlanoğlu Cd No:20, Girne 99300",
@@ -530,47 +363,20 @@
         "longitude": "-122.6793"
       },
       "mainImage": "assets/img/api/ChineseHouse/1.jpg",
+
       "images": [
         "assets/img/api/ChineseHouse/1.jpg",
         "assets/img/api/ChineseHouse/2.jpg",
         "assets/img/api/ChineseHouse/3.jpg"
       ],
       "openTimes": [
-        {
-          "day": "Monday",
-          "open": "00:00",
-          "close": "00:01"
-        },
-        {
-          "day": "Tuesday",
-          "open": "18:30",
-          "close": "23:00"
-        },
-        {
-          "day": "Wednesday",
-          "open": "18:30",
-          "close": "23:00"
-        },
-        {
-          "day": "Thursday",
-          "open": "18:30",
-          "close": "23:00"
-        },
-        {
-          "day": "Friday",
-          "open": "18:30",
-          "close": "23:00"
-        },
-        {
-          "day": "Saturday",
-          "open": "18:30",
-          "close": "23:00"
-        },
-        {
-          "day": "Sunday",
-          "open": "18:30",
-          "close": "23:00"
-        }
+        {"day": "Monday", "open": "00:00", "close": "00:01"},
+        {"day": "Tuesday", "open": "18:30", "close": "23:00"},
+        {"day": "Wednesday", "open": "18:30", "close": "23:00"},
+        {"day": "Thursday", "open": "18:30", "close": "23:00"},
+        {"day": "Friday", "open": "18:30", "close": "23:00"},
+        {"day": "Saturday", "open": "18:30", "close": "23:00"},
+        {"day": "Sunday", "open": "18:30", "close": "23:00"}
       ],
       "expectations": {
         "outsideArea": true,
@@ -590,7 +396,7 @@
       "sorting": {
         "popular": true,
         "alcohol": true,
-        "Kyrenia": true
+        "kyrenia": true
       },
       "currencies": ["TR"],
       "petsAllow": false,
@@ -606,7 +412,128 @@
       "description": "Chinese House Cyprus, Kıbrıs'ta otantik Çin mutfağının lezzetlerini sunan seçkin bir restorandır. Geleneksel Çin yemeklerinin ustalıkla hazırlandığı bu mekanda, taze ve kaliteli malzemelerle yapılan yemekler dikkat çeker. Zarif ve şık bir atmosfere sahip olan Chinese House Cyprus, misafirlerine hem görsel hem de damak tadına hitap eden bir deneyim sunar. Menüsünde yer alan çeşitli dim sum, noodle ve stir-fry seçenekleri ile her damak zevkine uygun lezzetler bulmak mümkündür. Restoran, güler yüzlü hizmeti ve özenle dekore edilmiş iç mekanı ile hem aile yemekleri hem de özel kutlamalar için ideal bir seçimdir."
     },
     {
-      "id": "0bf0"
+      "id": 8,
+      "type": "Restaurant ve Cafe",
+      "name": "Treasure",
+      "address": "Doga sokak 1, KARMI, GIRNE",
+      "website": "https://www.treasure-karmi.com/",
+      "location": {
+        "latitude": "45.5155",
+        "longitude": "-122.6793"
+      },
+      "mainImage": "assets/img/api/Treasure/1.jpg",
+
+      "images": [
+        "assets/img/api/Treasure/1.jpg",
+        "assets/img/api/Treasure/2.jpg",
+        "assets/img/api/Treasure/3.jpg",
+        "assets/img/api/Treasure/4.jpg",
+        "assets/img/api/Treasure/5.jpg",
+        "assets/img/api/Treasure/6.jpg"
+      ],
+      "openTimes": [
+        {"day": "Monday", "open": "00:00", "close": "00:01"},
+        {"day": "Tuesday", "open": "15:00", "close": "23:59"},
+        {"day": "Wednesday", "open": "15:00", "close": "23:59"},
+        {"day": "Thursday", "open": "15:00", "close": "23:59"},
+        {"day": "Friday", "open": "15:00", "close": "23:59"},
+        {"day": "Saturday", "open": "09:00", "close": "23:59"},
+        {"day": "Sunday", "open": "09:00", "close": "23:59"}
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
+        "WheelchairAccessibleEntrance": true
+      },
+      "sorting": {
+        "popular": true,
+        "alcohol": true,
+        "kyrenia": true
+      },
+      "currencies": ["TR"],
+      "petsAllow": false,
+      "map": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x14de6d2d28bd6537:0xaf7668b29e725e70?sa=X&ved=1t:8290&ictx=111",
+      "mail": "info@treasure-karmi.com",
+      "phone": "+90 533 835 4858",
+      "socialMedias": {
+        "instagram": "https://www.instagram.com/turkishquarter/",
+        "twitter": "",
+        "facebook": "https://www.facebook.com/Treasure.karmi/?locale=tr_TR",
+        "pinterest": ""
+      },
+      "description": "Treasure Restaurant, Karmi'de yer alan ve Kıbrıs'ın geleneksel lezzetlerini modern dokunuşlarla sunan bir restorandır. Doğal güzelliklerle çevrili bu mekan, misafirlerine huzurlu ve samimi bir ortamda eşsiz bir yemek deneyimi yaşatır. Treasure Restaurant, taze ve yerel malzemelerle hazırlanan yemekleriyle öne çıkar ve Akdeniz mutfağının en seçkin örneklerini sunar. Menüde deniz ürünleri, et ve vejetaryen seçenekleri bulunurken, her tabak özenle ve estetik bir sunumla servis edilir. Sıcak atmosferi, zarif dekorasyonu ve güler yüzlü hizmeti ile Treasure Restaurant, hem günlük yemekler hem de özel kutlamalar için ideal bir mekandır."
+    },
+    {
+      "id": 9,
+      "type": "Gezilecek Yer",
+      "name": "Girne Kalesi",
+      "address": "88RC+JQG, Girne 99300",
+      "website": "https://tr.wikipedia.org/wiki/Girne_Kalesi",
+      "location": {
+        "latitude": "45.5155",
+        "longitude": "-122.6793"
+      },
+      "mainImage": "assets/img/api/GirneCastle/1.jpg",
+
+      "images": [
+        "assets/img/api/GirneCastle/1.jpg",
+        "assets/img/api/GirneCastle/2.jpg",
+        "assets/img/api/GirneCastle/3.jpg",
+        "assets/img/api/GirneCastle/4.jpg",
+        "assets/img/api/GirneCastle/5.jpg",
+        "assets/img/api/GirneCastle/6.jpg"
+      ],
+      "openTimes": [
+        {"day": "Monday", "open": "08:00", "close": "18:00"},
+        {"day": "Tuesday", "open": "08:00", "close": "18:00"},
+        {"day": "Wednesday", "open": "08:00", "close": "18:00"},
+        {"day": "Thursday", "open": "15:00", "close": "23:59"},
+        {"day": "Friday", "open": "08:00", "close": "18:00"},
+        {"day": "Saturday", "open": "08:00", "close": "18:00"},
+        {"day": "Sunday", "open": "23:59", "close": "23:59"}
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
+        "WheelchairAccessibleEntrance": true
+      },
+      "sorting": {
+        "popular": true,
+        "alcohol": true,
+        "kyrenia": true
+      },
+      "currencies": ["TR"],
+      "petsAllow": false,
+      "map": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x14de6d2d28bd6537:0xaf7668b29e725e70?sa=X&ved=1t:8290&ictx=111",
+      "mail": "",
+      "phone": "",
+      "socialMedias": {
+        "instagram": "",
+        "twitter": "",
+        "facebook": "",
+        "pinterest": ""
+      },
+      "description": "Girne Kalesi, Kuzey Kıbrıs'ın Girne kentinde bulunan ve 7. yüzyılda Bizans İmparatorluğu tarafından Arap akınlarına karşı savunma amacıyla inşa edilen tarihi bir yapıdır. Lüzinyanlar, Venedikliler ve Osmanlılar döneminde çeşitli eklemeler ve güçlendirmeler yapılan kale, farklı medeniyetlerin izlerini taşır. Kale içinde, St. George Kilisesi, Venedik Kulesi ve Batık Gemi Müzesi gibi önemli yapılar ve sergiler bulunur. Girne Kalesi, tarihî ve mimari zenginliği ile ziyaretçilerine Kıbrıs'ın geçmişine dair kapsamlı bir bakış sunarken, Girne Limanı'na hakim konumuyla da muhteşem manzaralar sağlar."
     }
   ]
 }
