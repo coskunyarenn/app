@@ -148,7 +148,7 @@
         "cash": true,
         "freeParkArea": true,
         "WheelchairAccessibleEntrance": true,
-        "petsAllow": false
+        "petsAllow": true
       },
       "sorting": {
         "popular": true,
@@ -236,7 +236,7 @@
         "coffee": true,
         "dessert": true,
         "kitchen": true,
-        "petsAllow": false
+        "petsAllow": true
       },
       "sorting": {
         "alcohol": true,
@@ -324,7 +324,7 @@
         "dessert": true,
         "kitchen": true,
         "WheelchairAccessibleEntrance": true,
-        "petsAllow": false
+        "petsAllow": true
       },
       "sorting": {
         "alcohol": true,
@@ -411,7 +411,7 @@
         "dessert": true,
         "kitchen": true,
         "WheelchairAccessibleEntrance": true,
-        "petsAllow": false
+        "petsAllow": true
       },
       "sorting": {
         "museum": true,
@@ -496,7 +496,7 @@
         "dessert": true,
         "kitchen": true,
         "WheelchairAccessibleEntrance": true,
-        "petsAllow": false
+        "petsAllow": true
       },
       "sorting": {
         "popular": false,
@@ -586,7 +586,7 @@
         "dessert": true,
         "kitchen": true,
         "WheelchairAccessibleEntrance": true,
-        "petsAllow": false
+        "petsAllow": true
       },
       "sorting": {
         "popular": true,
@@ -648,7 +648,7 @@
         "dessert": true,
         "kitchen": true,
         "WheelchairAccessibleEntrance": true,
-        "petsAllow": false
+        "petsAllow": true
       },
       "sorting": {
         "popular": true,
@@ -710,7 +710,7 @@
         "dessert": true,
         "kitchen": true,
         "WheelchairAccessibleEntrance": true,
-        "petsAllow": false
+        "petsAllow": true
       },
       "sorting": {
         "popular": true,
