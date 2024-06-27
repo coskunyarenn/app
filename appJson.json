@@ -9,9 +9,9 @@
         "latitude": "25.77427",
         "longitude": "-80.19366"
       },
-      "mainImage": "assets/img/api/TheHouse/1.webp",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
       "images": [
-        "assets/img/api/TheHouse/1.webp",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
         "assets/img/api/TheHouse/2.webp",
         "assets/img/api/TheHouse/3.webp"
       ],
