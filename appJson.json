@@ -66,7 +66,7 @@
         "dessert": true,
         "kitchen": true,
         "WheelchairAccessibleEntrance": true,
-        "petsAllow": false
+        "petsAllow": true
       },
       "sorting": {
         "popular": true,
@@ -594,7 +594,6 @@
         "kyrenia": true
       },
       "currencies": ["TR"],
-      "petsAllow": true,
       "map": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x14de6d2d28bd6537:0xaf7668b29e725e70?sa=X&ved=1t:8290&ictx=111",
       "mail": " info@chinesehousecyprus.net",
       "phone": "+90 (542) 851 4080",
