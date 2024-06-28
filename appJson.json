@@ -12,8 +12,8 @@
       "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
       "images": [
         "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
-        "assets/img/api/TheHouse/2.webp",
-        "assets/img/api/TheHouse/3.webp"
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/2.webp",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/3.webp"
       ],
       "openTimes": [
         {
@@ -97,7 +97,7 @@
         "latitude": "39.7392",
         "longitude": "-104.9903"
       },
-      "mainImage": "assets/img/api/Bellapais/1.jpg",
+      "mainImage": "https://github.com/coskunyarenn/app/blob/main/assets/img/api/Bellapais/1.jpg",
       "images": [
         "assets/img/api/Bellapais/1.jpg",
         "assets/img/api/Bellapais/2.jpg",
