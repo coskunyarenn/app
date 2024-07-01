@@ -3,7 +3,13 @@
     {
       "id": "1",
       "type": "Restaurant ve Cafe",
-      "name": "The House",
+      "name": {
+        "en": "The House",
+        "tr": "The House",
+        "ar": "The House",
+        "ru": "The House",
+        "uk": "The House"
+      },
       "address": "Ecevit Cd, Girne 9935",
       "location": {
         "latitude": "25.77427",
@@ -98,7 +104,13 @@
     {
       "id": "2",
       "type": "Gezilecek Yer",
-      "name": "Bellapais Manastırı",
+      "name": {
+        "en": "Bellapais Manastırı",
+        "tr": "Bellapais Manastırı",
+        "ar": "Bellapais Manastırı",
+        "ru": "Bellapais Manastırı",
+        "uk": "Bellapais Manastırı"
+      },
       "address": "8944+R39, Beylerbeyi 99320",
       "website": "https://tr.wikipedia.org/wiki/Bellapais_Manast%C4%B1r%C4%B1",
       "location": {
@@ -186,7 +198,13 @@
     {
       "id": "3",
       "type": "Restaurant ve Cafe",
-      "name": "Raica Restaurant",
+      "name": {
+        "en": "Raica Restaurant",
+        "tr": "Raica Restaurant ",
+        "ar": "Raica Restaurant ",
+        "ru": "Raica Restaurant ",
+        "uk": "Raica Restaurant "
+      },
       "address": "İsmet İnönü Cad. Esentepe Halk Plajı Sk. No:1 Çatalköy, Esentepe",
       "website": "https://www.hilltowncyprus.com/raica/Raica_Menu.pdf",
       "location": {
@@ -280,7 +298,13 @@
     {
       "id": "4",
       "type": "Restaurant ve Cafe",
-      "name": "Esentepe Califorian",
+      "name": {
+        "en": "Esentepe Califorian ",
+        "tr": "Esentepe Califorian ",
+        "ar": "Esentepe Califorian ",
+        "ru": "Esentepe Califorian ",
+        "uk": "Esentepe Califorian "
+      },
       "address": "Maldives Homes, Bahçeli",
       "website": "https://www.califorianrestaurant.com/califorian-esentepe",
       "location": {
@@ -375,7 +399,13 @@
     {
       "id": "5",
       "type": "Gezilecek Yer",
-      "name": "Minia Kıbrıs",
+      "name": {
+        "en": "Minia Kıbrıs ",
+        "tr": "Minia Kıbrıs ",
+        "ar": "Minia Kıbrıs ",
+        "ru": "Minia Kıbrıs ",
+        "uk": "Minia Kıbrıs "
+      },
       "address": "Tatlısu",
       "website": "https://tr.wikipedia.org/wiki/Minia_K%C4%B1br%C4%B1s_M%C3%BCzesi",
       "location": {
@@ -469,7 +499,13 @@
     {
       "id": "6",
       "type": "Gezilecek Yer",
-      "name": "St. Hilarion Kalesi",
+      "name": {
+        "en": "St. Hilarion Kalesi ",
+        "tr": "St. Hilarion Kalesi ",
+        "ar": "St. Hilarion Kalesi ",
+        "ru": "St. Hilarion Kalesi ",
+        "uk": "St. Hilarion Kalesi "
+      },
       "address": "876J+HCG St. Hilarion, Karaman 99320",
       "website": "https://tr.wikipedia.org/wiki/Saint_Hilarion_Kalesi",
       "location": {
@@ -565,7 +601,13 @@
     {
       "id": "7",
       "type": "Restaurant ve Cafe",
-      "name": "Chinese House",
+      "name": {
+        "en": "Chinese House ",
+        "tr": "Chinese House ",
+        "ar": "Chinese House ",
+        "ru": "Chinese House ",
+        "uk": "Chinese House "
+      },
       "address": "Karaoğlanoğlu Cd No:20, Girne 99300",
       "website": "https://www.chinesehousecyprus.net/",
       "location": {
@@ -658,7 +700,13 @@
     {
       "id": 8,
       "type": "Restaurant ve Cafe",
-      "name": "Treasure",
+      "name": {
+        "en": "Treasure ",
+        "tr": "Treasure ",
+        "ar": "Treasure ",
+        "ru": "Treasure ",
+        "uk": "Treasure "
+      },
       "address": "Doga sokak 1, KARMI, GIRNE",
       "website": "https://www.treasure-karmi.com/",
       "location": {
@@ -727,7 +775,13 @@
     {
       "id": 9,
       "type": "Gezilecek Yer",
-      "name": "Girne Kalesi",
+      "name": {
+        "en": "Girne Castle",
+        "tr": "Girne Kalesi",
+        "ar": "Girne Castle",
+        "ru": "Girne Kalesi",
+        "uk": "Girne Castle"
+      },
       "address": "88RC+JQG, Girne 99300",
       "website": "https://tr.wikipedia.org/wiki/Girne_Kalesi",
       "location": {
