@@ -105,11 +105,11 @@
       "id": "2",
       "type": "Gezilecek Yer",
       "name": {
-        "en": "Bellapais Manastırı",
+        "en": "Bellapais Monastery",
         "tr": "Bellapais Manastırı",
-        "ar": "Bellapais Manastırı",
-        "ru": "Bellapais Manastırı",
-        "uk": "Bellapais Manastırı"
+        "ar": "Bellapais دير",
+        "ru": "Bellapais Монастырь",
+        "uk": "Bellapais Монастир"
       },
       "address": "8944+R39, Beylerbeyi 99320",
       "website": "https://tr.wikipedia.org/wiki/Bellapais_Manast%C4%B1r%C4%B1",
@@ -200,10 +200,10 @@
       "type": "Restaurant ve Cafe",
       "name": {
         "en": "Raica Restaurant",
-        "tr": "Raica Restaurant ",
-        "ar": "Raica Restaurant ",
-        "ru": "Raica Restaurant ",
-        "uk": "Raica Restaurant "
+        "tr": "Raica Restoran ",
+        "ar": "Raica مطعم ",
+        "ru": "Raica Ресторан ",
+        "uk": "Raica Ресторан "
       },
       "address": "İsmet İnönü Cad. Esentepe Halk Plajı Sk. No:1 Çatalköy, Esentepe",
       "website": "https://www.hilltowncyprus.com/raica/Raica_Menu.pdf",
@@ -500,11 +500,11 @@
       "id": "6",
       "type": "Gezilecek Yer",
       "name": {
-        "en": "St. Hilarion Kalesi ",
+        "en": "St. Hilarion Castle ",
         "tr": "St. Hilarion Kalesi ",
-        "ar": "St. Hilarion Kalesi ",
-        "ru": "St. Hilarion Kalesi ",
-        "uk": "St. Hilarion Kalesi "
+        "ar": "St. Hilarion قلعة ",
+        "ru": "St. Hilarion Замок ",
+        "uk": "St. Hilarion Замок "
       },
       "address": "876J+HCG St. Hilarion, Karaman 99320",
       "website": "https://tr.wikipedia.org/wiki/Saint_Hilarion_Kalesi",
@@ -778,9 +778,9 @@
       "name": {
         "en": "Girne Castle",
         "tr": "Girne Kalesi",
-        "ar": "Girne Castle",
-        "ru": "Girne Kalesi",
-        "uk": "Girne Castle"
+        "ar": "Girne قلعة",
+        "ru": "Girne Замок",
+        "uk": "Girne Замок"
       },
       "address": "88RC+JQG, Girne 99300",
       "website": "https://tr.wikipedia.org/wiki/Girne_Kalesi",
