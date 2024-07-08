@@ -819,7 +819,7 @@
         "bar": true,
         "coffee": true,
         "dessert": true,
-        "kitchen": true,
+        "kitchen": false,
         "WheelchairAccessibleEntrance": true,
         "petsAllow": true
       },
