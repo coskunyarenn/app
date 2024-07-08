@@ -162,7 +162,7 @@
         }
       ],
       "expectations": {
-        "outsideArea": true,
+        "outsideArea": false,
         "insideArea": true,
         "kardPay": true,
         "cash": true,
@@ -257,7 +257,7 @@
         }
       ],
       "expectations": {
-        "outsideArea": true,
+        "outsideArea": false,
         "insideArea": true,
         "reservation": true,
         "kidsMenu": true,
@@ -357,7 +357,7 @@
         }
       ],
       "expectations": {
-        "outsideArea": true,
+        "outsideArea": false,
         "insideArea": true,
         "reservation": true,
         "kidsMenu": true,
@@ -457,7 +457,7 @@
         }
       ],
       "expectations": {
-        "outsideArea": true,
+        "outsideArea": false,
         "insideArea": true,
         "reservation": true,
         "kidsMenu": true,
@@ -555,7 +555,7 @@
         }
       ],
       "expectations": {
-        "outsideArea": true,
+        "outsideArea": false,
         "insideArea": true,
         "reservation": true,
         "kidsMenu": true,
@@ -658,7 +658,7 @@
         }
       ],
       "expectations": {
-        "outsideArea": true,
+        "outsideArea": false,
         "insideArea": true,
         "reservation": true,
         "kidsMenu": true,
@@ -733,7 +733,7 @@
         {"day": "Sunday", "open": "09:00", "close": "23:59"}
       ],
       "expectations": {
-        "outsideArea": true,
+        "outsideArea": false,
         "insideArea": true,
         "reservation": true,
         "kidsMenu": true,
@@ -808,7 +808,7 @@
         {"day": "Sunday", "open": "23:59", "close": "23:59"}
       ],
       "expectations": {
-        "outsideArea": true,
+        "outsideArea": false,
         "insideArea": true,
         "reservation": true,
         "kidsMenu": true,
