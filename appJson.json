@@ -176,7 +176,7 @@
         "castles": true,
         "kyrenia": true
       },
-      "currency": false,
+      "currency": true,
       "map": "https://www.google.com/maps/place/Bellapais+Manast%C4%B1r%C4%B1/@35.3070375,33.3526679,17z/data=!3m1!4b1!4m6!3m5!1s0x14de14a415bc7e4d:0x6fd9e83d7af025f9!8m2!3d35.3070331!4d33.3552428!16s%2Fg%2F121hfk_2?hl=tr&entry=ttu",
       "mail": "",
       "phone": "",
