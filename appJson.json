@@ -80,7 +80,7 @@
         "coffee": true,
         "kyrenia": true
       },
-      "currencies": ["TR"],
+      "currencies": ["TR", "USD"],
       "map": "https://www.google.com/maps/place/The+House+Lounge+Bar+%26+Restaurant/@35.3385196,33.3200298,19.25z/data=!4m14!1m7!3m6!1s0x14de6ccecd42e14f:0x53e0665b7becaf44!2sThe+House+Lounge+Bar+%26+Restaurant!8m2!3d35.3383712!4d33.3205337!16s%2Fg%2F1tj6l8r5!3m5!1s0x14de6ccecd42e14f:0x53e0665b7becaf44!8m2!3d35.3383712!4d33.3205337!16s%2Fg%2F1tj6l8r5?entry=ttu",
       "phone": "+90 392 816 1010",
       "whatsapp": "",
