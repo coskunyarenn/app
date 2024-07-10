@@ -72,7 +72,9 @@
         "dessert": false,
         "kitchen": true,
         "WheelchairAccessibleEntrance": false,
-        "petsAllow": false
+        "petsAllow": false,
+        "fish": true,
+        "meat": true
       },
       "sorting": {
         "popular": true,
