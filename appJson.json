@@ -213,9 +213,9 @@
         "latitude": "40.7128",
         "longitude": "-74.0060"
       },
-      "mainImage": "assets/img/api/Raica/5.jpg",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg",
       "images": [
-        "assets/img/api/Raica/1.png",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg",
         "assets/img/api/Raica/2.jpg",
         "assets/img/api/Raica/3.jpg",
         "assets/img/api/Raica/4.jpg",
