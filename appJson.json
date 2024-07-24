@@ -122,9 +122,9 @@
       "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Bellapais/1.jpg",
       "images": [
         "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Bellapais/1.jpg",
-        "assets/img/api/Bellapais/2.jpg",
-        "assets/img/api/Bellapais/3.jpg",
-        "assets/img/api/Bellapais/4.jpg"
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Bellapais/2.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Bellapais/3.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Bellapais/4.jpg"
       ],
       "openTimes": [
         {
@@ -213,13 +213,13 @@
         "latitude": "40.7128",
         "longitude": "-74.0060"
       },
-      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/1.png",
       "images": [
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg",
-        "assets/img/api/Raica/2.jpg",
-        "assets/img/api/Raica/3.jpg",
-        "assets/img/api/Raica/4.jpg",
-        "assets/img/api/Raica/5.jpg"
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/1.png",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/2.png",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/3.png",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/4.png",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/5.png"
       ],
       "openTimes": [
         {
@@ -313,13 +313,13 @@
         "latitude": "39.0968",
         "longitude": "-120.0324"
       },
-      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg",
       "images": [
-        "assets/img/api/EsentepeCaliforian/1.jpg",
-        "assets/img/api/EsentepeCaliforian/2.jpg",
-        "assets/img/api/EsentepeCaliforian/3.jpg",
-        "assets/img/api/EsentepeCaliforian/4.jpg",
-        "assets/img/api/EsentepeCaliforian/5.jpg"
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/2.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/3.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/4.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/5.jpg"
       ],
       "openTimes": [
         {
@@ -416,12 +416,12 @@
         "latitude": "33.4484",
         "longitude": "-112.0740"
       },
-      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/MiniaKibris/1.jpg",
       "images": [
-        "assets/img/api/MiniaKibris/1.jpg",
-        "assets/img/api/MiniaKibris/2.jpg",
-        "assets/img/api/MiniaKibris/3.jpg",
-        "assets/img/api/MiniaKibris/4.jpg"
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/MiniaKibris/1.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/MiniaKibris/2.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/MiniaKibris/3.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/MiniaKibris/4.jpg"
       ],
       "openTimes": [
         {
@@ -516,10 +516,10 @@
         "latitude": "45.5155",
         "longitude": "-122.6793"
       },
-      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/StHilarionKalesi/1.jpg",
       "images": [
-        "assets/img/api/StHilarionKalesi/1.jpg",
-        "assets/img/api/StHilarionKalesi/2.jpg"
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/StHilarionKalesi/1.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/StHilarionKalesi/2.jpg"
       ],
       "openTimes": [
         {
@@ -618,11 +618,11 @@
         "latitude": "45.5155",
         "longitude": "-122.6793"
       },
-      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/ChineseHouse/1.jpg",
       "images": [
-        "assets/img/api/ChineseHouse/1.jpg",
-        "assets/img/api/ChineseHouse/2.jpg",
-        "assets/img/api/ChineseHouse/3.jpg"
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/ChineseHouse/1.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/ChineseHouse/2.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/ChineseHouse/3.jpg"
       ],
       "openTimes": [
         {
@@ -717,15 +717,15 @@
         "latitude": "45.5155",
         "longitude": "-122.6793"
       },
-      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/1.jpg",
 
       "images": [
-        "assets/img/api/Treasure/1.jpg",
-        "assets/img/api/Treasure/2.jpg",
-        "assets/img/api/Treasure/3.jpg",
-        "assets/img/api/Treasure/4.jpg",
-        "assets/img/api/Treasure/5.jpg",
-        "assets/img/api/Treasure/6.jpg"
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/1.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/2.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/3.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/4.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/5.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/6.jpg"
       ],
       "openTimes": [
         {"day": "Monday", "open": "00:00", "close": "00:01"},
@@ -792,15 +792,15 @@
         "latitude": "45.5155",
         "longitude": "-122.6793"
       },
-      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/1.jpg",
 
       "images": [
-        "assets/img/api/GirneCastle/1.jpg",
-        "assets/img/api/GirneCastle/2.jpg",
-        "assets/img/api/GirneCastle/3.jpg",
-        "assets/img/api/GirneCastle/4.jpg",
-        "assets/img/api/GirneCastle/5.jpg",
-        "assets/img/api/GirneCastle/6.jpg"
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/1.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/2.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/3.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/4.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/5.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/6.jpg"
       ],
       "openTimes": [
         {"day": "Monday", "open": "08:00", "close": "18:00"},
