@@ -313,7 +313,7 @@
         "latitude": "39.0968",
         "longitude": "-120.0324"
       },
-      "mainImage": "assets/img/api/EsentepeCaliforian/1.jpg",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
       "images": [
         "assets/img/api/EsentepeCaliforian/1.jpg",
         "assets/img/api/EsentepeCaliforian/2.jpg",
@@ -416,7 +416,7 @@
         "latitude": "33.4484",
         "longitude": "-112.0740"
       },
-      "mainImage": "assets/img/api/MiniaKibris/1.jpg",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
       "images": [
         "assets/img/api/MiniaKibris/1.jpg",
         "assets/img/api/MiniaKibris/2.jpg",
@@ -516,7 +516,7 @@
         "latitude": "45.5155",
         "longitude": "-122.6793"
       },
-      "mainImage": "assets/img/api/StHilarionKalesi/1.jpg",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
       "images": [
         "assets/img/api/StHilarionKalesi/1.jpg",
         "assets/img/api/StHilarionKalesi/2.jpg"
@@ -618,7 +618,7 @@
         "latitude": "45.5155",
         "longitude": "-122.6793"
       },
-      "mainImage": "assets/img/api/ChineseHouse/1.jpg",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
       "images": [
         "assets/img/api/ChineseHouse/1.jpg",
         "assets/img/api/ChineseHouse/2.jpg",
@@ -717,7 +717,7 @@
         "latitude": "45.5155",
         "longitude": "-122.6793"
       },
-      "mainImage": "assets/img/api/Treasure/1.jpg",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
 
       "images": [
         "assets/img/api/Treasure/1.jpg",
@@ -792,7 +792,7 @@
         "latitude": "45.5155",
         "longitude": "-122.6793"
       },
-      "mainImage": "assets/img/api/GirneCastle/1.jpg",
+      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp",
 
       "images": [
         "assets/img/api/GirneCastle/1.jpg",
