@@ -30,32 +30,32 @@
         {
           "day": "Tuesday",
           "open": "12:00",
-          "close": "23:59"
+          "close": "02:00"
         },
         {
           "day": "Wednesday",
           "open": "12:00",
-          "close": "23:59"
+          "close": "02:00"
         },
         {
           "day": "Thursday",
           "open": "12:00",
-          "close": "23:59"
+          "close": "02:00"
         },
         {
           "day": "Friday",
           "open": "12:00",
-          "close": "23:59"
+          "close": "02:00"
         },
         {
           "day": "Saturday",
           "open": "10:00",
-          "close": "23:59"
+          "close": "02:00"
         },
         {
           "day": "Sunday",
           "open": "10:00",
-          "close": "23:59"
+          "close": "02:00"
         }
       ],
       "expectations": {
