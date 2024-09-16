@@ -1000,6 +1000,80 @@
         "ru": "Концепция: Полный пансион Плюс и Проживание и завтрак: Расположенный на берегу моря в центре Кирении, любимой территории Кипра, отель Kaya Palazzo Resort & Casino предлагает незабываемые впечатления от отдыха в своих номерах, специально спроектированных для комфорта и привилегий, которые делают каждое мгновение незабываемым. его гости приятны. Все, что вам нужно для приятного семейного отдыха, есть в Kaya Palazzo Kyrenia с его привилегированным пирсом и пляжем, специальными павильонами для гостей и эксклюзивными ресторанами с обслуживанием по меню... Номера с видом на море, люксы Grand, King и Royal Suite, а также дуплексы , королевские и королевские люксы у бассейна, развлечения для детей, великолепные спа-центры и функциональные конференц-залы делают Kaya Palazzo Kyrenia единственным местом отдыха в самом красивом месте острова для гостей всех возрастов с его знаменитыми ресторанами. , ждет вас, наши уважаемые гости.",
         "uk": "Концепція: «Повний пансіон плюс» і «ліжко та сніданок». Розташований на березі моря в центрі Кіренії, улюбленої на Кіпрі, Kaya Palazzo Resort & Casino пропонує незабутні враження від відпочинку завдяки своїм номерам, спеціально розробленим для комфорту та привілеїв, які роблять кожну мить його гостям приємно. Все, що вам потрібно для приємного сімейного відпочинку, є в Kaya Palazzo Kyrenia з його привілейованим пірсом і пляжем, спеціальними павільйонами для гостей і ексклюзивними ресторанами à la carte... Номери з видом на море, люкси Grand, King і Royal, а також дуплекси , люкси King і Royal Swim-up, розважальні заходи для дітей, чудові спа-центри та функціональні конференц-зали роблять Kaya Palazzo Kyrenia єдиним місцем відпочинку в найкрасивішому місці острова для гостей будь-якого віку з його знаменитими ресторанами , чекає на вас, наші дорогі гості."
       }
+    },
+    {
+      "id": 12,
+      "type": "Activities",
+      "name": {
+        "en": "Cemsa Karting & Sporting Center",
+        "tr": "Cemsa Karting & Spor Merkezi",
+        "ar": "مركز سيمسا للكارتينج والرياضة",
+        "ru": "Картинг и спортивный центр Cemsa",
+        "uk": "Картинг і спортивний центр Cemsa"
+      },
+      "address": "88RC+JQG, Girne 99300",
+      "website": "https://cemsakartingcenter.com/",
+      "location": {
+        "latitude": "45.5155",
+        "longitude": "-122.6793"
+      },
+      "mainImage": "https://img1.wsimg.com/isteam/ip/88d61fe8-c990-4bfd-92ce-d61a2474c71e/WhatsApp%20G%C3%B6rsel%202022-11-16%20saat%2015.33.41.jpg/:/rs=w:1350,m",
+
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/88d61fe8-c990-4bfd-92ce-d61a2474c71e/WhatsApp%20G%C3%B6rsel%202022-11-16%20saat%2015.33.41.jpg/:/rs=w:1350,m",
+        "https://img1.wsimg.com/isteam/ip/88d61fe8-c990-4bfd-92ce-d61a2474c71e/IMG_8950.JPG/:/rs=w:1350,m",
+        "https://img1.wsimg.com/isteam/ip/88d61fe8-c990-4bfd-92ce-d61a2474c71e/104483778_10158300583093490_863351835426807495.jpg/:/rs=w:1350,m",
+        "https://img1.wsimg.com/isteam/ip/88d61fe8-c990-4bfd-92ce-d61a2474c71e/drift-2019-final-alb%C3%BCm-115.jpg/:/rs=w:1350,m",
+        "https://img1.wsimg.com/isteam/ip/88d61fe8-c990-4bfd-92ce-d61a2474c71e/70763686_189793895385541_2982963869737533090_n.jpg/:/rs=w:1350,m"
+      ],
+      "openTimes": [
+        {"day": "Monday", "open": "16:00", "close": "01:00"},
+        {"day": "Tuesday", "open": "16:00", "close": "01:00"},
+        {"day": "Wednesday", "open": "16:00", "close": "01:00"},
+        {"day": "Thursday", "open": "16:00", "close": "01:00"},
+        {"day": "Friday", "open": "16:00", "close": "01:00"},
+        {"day": "Saturday", "open": "16:00", "close": "01:00"},
+        {"day": "Sunday", "open": "16:00", "close": "01:00"}
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
+        "WheelchairAccessibleEntrance": true,
+        "petsAllow": false
+      },
+      "sorting": {
+        "popular": true,
+        "alcohol": true,
+        "kyrenia": true
+      },
+      "currency": true,
+      "map": "https://www.google.com/maps/place/Cemsa+Karting+%26+Sporting+Center/@35.2205511,33.3271866,17z/data=!3m1!4b1!4m6!3m5!1s0x14de11232380f129:0xe4577e7c8b3c4c24!8m2!3d35.2205467!4d33.3297615!16s%2Fg%2F11b7q7z3s2?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D",
+      "mail": "",
+      "phone": "",
+      "whatsapp": "",
+      "socialMedias": {
+        "instagram": "",
+        "twitter": "",
+        "facebook": "",
+        "pinterest": ""
+      },
+      "description": {
+        "en": "    We are located in North Nicosia. and 5 minutes away from city centre since 2004. Our 1650 m outdoor circuit designed by CIK/FIA standards. You can race with our karts every day of the week. In addition, we offer a wide range of services to companies and institutions, from small organizations to large tournaments. With the timing system on our track, you can compare your scores at the end of the race with those of your friends and improve yourself. If you want, you can continue this sport with our professional go-karts accompanied by our trainers, participate in the championships and develop your own career. Do not forget that even master Formula 1 drivers are trained in Karting.",
+        "tr": "Kuzey Lefkoşa'dayız. ve şehir merkezine 5 dakika uzaklıktayız. CIK/FIA standartlarına göre tasarlanmış 1650 m'lik açık hava pistimiz. Haftanın her günü kartlarımızla yarışabilirsiniz. Ayrıca küçük organizasyonlardan büyük turnuvalara kadar şirketlere ve kurumlara geniş bir yelpazede hizmet sunuyoruz. Pistimizde bulunan zamanlama sistemiyle yarış sonunda puanlarınızı arkadaşlarınızın puanlarıyla karşılaştırabilir ve kendinizi geliştirebilirsiniz. İsterseniz eğitmenlerimiz eşliğinde profesyonel go-kartlarımızla bu sporu sürdürebilir, şampiyonalara katılabilir ve kendi kariyerinizi geliştirebilirsiniz. Unutmayın ki usta Formula 1 sürücüleri bile Karting'de yetiştirilmektedir.",
+        "ar": "نحن موجودون في شمال نيقوسيا وعلى بعد 5 دقائق من وسط المدينة منذ عام 2004. حلبة خارجية بطول 1650 مترًا مصممة وفقًا لمعايير CIK / FIA. يمكنك السباق بسيارات الكارت الخاصة بنا كل يوم من أيام الأسبوع. بالإضافة إلى ذلك، نقدم مجموعة واسعة من الخدمات للشركات والمؤسسات، من المنظمات الصغيرة إلى البطولات الكبيرة. مع نظام التوقيت على مسارنا، يمكنك مقارنة نتائجك في نهاية السباق بنتائج أصدقائك وتحسين نفسك. إذا كنت ترغب في ذلك، يمكنك مواصلة هذه الرياضة مع سيارات الكارت الاحترافية لدينا برفقة مدربينا، والمشاركة في البطولات وتطوير حياتك المهنية. لا تنس أن حتى سائقي الفورمولا 1 المحترفين مدربون على رياضة الكارت.",
+        "ru": "Мы находимся в Северной Никосии, в 5 минутах от центра города с 2004 года. Наша открытая трасса длиной 1650 м, спроектированная по стандартам CIK/FIA. Вы можете гонять на наших картах каждый день недели. Кроме того, мы предлагаем широкий спектр услуг компаниям и учреждениям, от небольших организаций до крупных турниров. С системой хронометража на нашей трассе вы можете сравнить свои результаты в конце гонки с результатами ваших друзей и улучшить себя. Если вы хотите, вы можете продолжить этот вид спорта на наших профессиональных картах в сопровождении наших тренеров, участвовать в чемпионатах и ​​развивать свою собственную карьеру. Не забывайте, что даже мастера Формулы 1 обучаются картингу.",
+        "uk": "Ми знаходимося в Північній Нікосії. і в 5 хвилинах їзди від центру міста з 2004 року. Наша відкрита траса довжиною 1650 м розроблена за стандартами CIK/FIA. Ви можете брати участь у перегонах з нашими картингами кожного дня тижня. Крім того, ми пропонуємо широкий спектр послуг компаніям і установам, від невеликих організацій до великих турнірів. Завдяки системі хронометражу на нашій трасі ви можете порівняти свої результати наприкінці гонки з результатами своїх друзів і покращити себе. Якщо ви хочете, ви можете продовжити цей вид спорту на наших професійних картингах у супроводі наших тренерів, брати участь у чемпіонатах і розвивати власну кар'єру. Не забувайте, що навіть майстерні гонщики Формули-1 проходять навчання в картингу."
+      }
     }
   ]
 }
