@@ -855,52 +855,52 @@
       "id": 10,
       "type": "Hotel",
       "name": {
-        "en": "Merit",
-        "tr": "Merit",
-        "ar": "Merit",
-        "ru": "Merit ",
-        "uk": "Merit "
+        "en": "Less Ambassadeurs",
+        "tr": "Less Ambassadeurs",
+        "ar": "Less Ambassadeurs",
+        "ru": "Less Ambassadeurs ",
+        "uk": "Less Ambassadeurs "
       },
       "address": "88RC+JQG, Girne 99300",
-      "website": "https://tr.wikipedia.org/wiki/Girne_Kalesi",
+      "website": "https://lesambassadeurs.net/Hotel",
       "location": {
         "latitude": "45.5155",
         "longitude": "-122.6793"
       },
-      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/1.jpg",
+      "mainImage": "https://lesambassadeurs.net/img/general_night2.jpg",
 
       "images": [
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/1.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/2.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/3.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/4.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/5.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/6.jpg"
+        "https://lesambassadeurs.net/img/general_night2.jpg",
+        "https://lesambassadeurs.net/img/rooms/1.jpg",
+        "https://lesambassadeurs.net/img/rooms/2.jpg",
+        "https://lesambassadeurs.net/img/rooms/3.jpg",
+        "https://lesambassadeurs.net/img/rooms/4.jpg",
+        "https://lesambassadeurs.net/img/rooms/5.jpg"
       ],
       "openTimes": [
-        {"day": "Monday", "open": "08:00", "close": "18:00"},
-        {"day": "Tuesday", "open": "08:00", "close": "18:00"},
-        {"day": "Wednesday", "open": "08:00", "close": "18:00"},
-        {"day": "Thursday", "open": "15:00", "close": "23:59"},
-        {"day": "Friday", "open": "08:00", "close": "18:00"},
-        {"day": "Saturday", "open": "08:00", "close": "18:00"},
-        {"day": "Sunday", "open": "23:59", "close": "23:59"}
+        {"day": "Monday", "open": "00:00", "close": "23:59"},
+        {"day": "Tuesday", "open": "00:00", "close": "23:59"},
+        {"day": "Wednesday", "open": "00:00", "close": "23:59"},
+        {"day": "Thursday", "open": "00:00", "close": "23:59"},
+        {"day": "Friday", "open": "00:00", "close": "23:59"},
+        {"day": "Saturday", "open": "00:00", "close": "23:59"},
+        {"day": "Sunday", "open": "00:00", "close": "23:59"}
       ],
       "expectations": {
-        "outsideArea": false,
+        "outsideArea": true,
         "insideArea": true,
-        "reservation": false,
-        "kidsMenu": false,
-        "babySit": false,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
         "kardPay": true,
         "cash": true,
         "freeParkArea": true,
-        "bar": false,
-        "coffee": false,
-        "dessert": false,
-        "kitchen": false,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
         "WheelchairAccessibleEntrance": true,
-        "petsAllow": true
+        "petsAllow": false
       },
       "sorting": {
         "popular": true,
@@ -908,7 +908,7 @@
         "kyrenia": true
       },
       "currency": true,
-      "map": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x14de6d2d28bd6537:0xaf7668b29e725e70?sa=X&ved=1t:8290&ictx=111",
+      "map": "https://www.google.com/maps/place/Les+Ambassadeurs+Hotel+Casino+%26+Marina/@35.3419394,33.3017915,17z/data=!3m1!4b1!4m6!3m5!1s0x14de6cd606085d43:0x89dff1a3f6e10cb0!8m2!3d35.3419351!4d33.3043664!16s%2Fg%2F11f5ly7qt3?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D",
       "mail": "",
       "phone": "",
       "whatsapp": "",
@@ -919,11 +919,11 @@
         "pinterest": ""
       },
       "description": {
-        "en": "The House Restaurant, situated in the centre of Kyrenia, is the town’s premier venue for stylish and innovative international cuisine. Designed by RPW, renowned UK interior designers in the field of hospitality, The House delivers a charming blend of old Cypriot tradition and modern chic. Each room of the restaurant has a different quirky style, from low-light and intimate to brash and breezy, and all are enhanced with art-work from around the world. The eclectic visual richness is reflected in the menus which offer an exciting blend of Cypriot/Turkish and international cuisine. The drinks menu is amongst the richest on the island and the consummate staff are adept at mixing the world’s favourite cocktails.",
-        "tr": "Girne'nin merkezinde yer alan The House Restaurant, şık ve yenilikçi uluslararası mutfağıyla kasabanın önde gelen mekanıdır. İngiltere'nin tanınmış iç mimarlık firması RPW tarafından tasarlanan The House, eski Kıbrıs geleneği ile modern şıklığı büyüleyici bir şekilde harmanlıyor. Restoranın her odası, düşük ışıkta samimiden gürültülü ve esintiliye kadar farklı bir tuhaf stile sahip ve hepsi dünyanın dört bir yanından gelen sanat eserleriyle zenginleştirilmiştir. Eklektik görsel zenginlik, Kıbrıs/Türk ve uluslararası mutfağın heyecan verici bir karışımını sunan menülere yansımaktadır. Ada'nın en zengin içecek menülerinden birine sahip olan The House, dünyanın en sevilen kokteyllerini hazırlamakta ustalaşmış personeliyle ünlüdür.",
-        "ar": "يقع مطعم The House في وسط كيرينيا، وهو المكان الأول في المدينة للمأكولات العالمية الأنيقة والمبتكرة. صممه RPW، المصممون الداخليين البريطانيين المشهورين في مجال الضيافة، يجمع The House بين تقاليد قبرص القديمة والأناقة العصرية بشكل ساحر. كل غرفة في المطعم لها أسلوب غريب مختلف، من الإضاءة الخافتة والحميمية إلى الجريء والنشط، وجميعها معززة بالأعمال الفنية من جميع أنحاء العالم. تنعكس الثروة البصرية الانتقائية في القوائم التي تقدم مزيجاً مثيراً من المأكولات القبرصية/التركية والعالمية. قائمة المشروبات هي من بين الأغنى في الجزيرة والموظفون المتقنون ماهرون في مزج الكوكتيلات المفضلة في العالم.",
-        "ru": "Ресторан The House, расположенный в центре Кирении, является главным местом в городе для стильной и инновационной международной кухни. Разработанный RPW, известными британскими дизайнерами интерьеров в области гостеприимства, The House предлагает очаровательное сочетание старых кипрских традиций и современного шика. Каждая комната ресторана имеет свой неповторимый стиль, от мягкого и интимного до яркого и ветреного, и все они украшены произведениями искусства со всего мира. Эклектичное визуальное богатство отражено в меню, предлагающем захватывающее сочетание кипрско-турецкой и международной кухни. Меню напитков является одним из самых богатых на острове, а опытный персонал мастерски смешивает любимые коктейли мира.",
-        "uk": "Ресторан The House, розташований у центрі Кіренії, є головним закладом міста для стильної та інноваційної міжнародної кухні. Спроектований RPW, відомими британськими дизайнерами інтер'єрів у сфері гостинності, The House пропонує чарівне поєднання старих кіпрських традицій і сучасного шику. Кожна кімната ресторану має свій унікальний стиль, від приглушеного і затишного до яскравого і вітряного, і всі вони прикрашені творами мистецтва з усього світу. Еклектичне візуальне багатство відображене в меню, яке пропонує захоплююче поєднання кіпрсько-турецької та міжнародної кухні. Меню напоїв є одним з найбагатших на острові, а досвідчений персонал майстерно змішує улюблені коктейлі світу."
+        "en": "Les Ambassadeurs Hotel, which opened its doors in 2017, continues to host its guests with a full-board boutique service approach in the heart of Kyrenia, 30 minutes from Ercan Airport. Les Ambassadeurs Hotel, which offers different accommodation alternatives with Maldive Houses, Swim-up rooms, spacious suite alternatives in a holiday paradise spread over 25 acres of land, is also a favorite of honeymoon couples… The facility, which has the first and only marina with a capacity of 150 yachts on the island, also draws attention with its entertaining port area. It takes its guests to the peak of entertainment with its delicious alacarte restaurants and the best nightclub of Cyprus, News Club. Les Ambassadeurs Hotel & Casino & Marina awaits you with its comfortable accommodation areas, marina facilities and entertainment options.",
+        "tr": "2017 yılında kapılarını açan Les Ambassadeurs Hotel Ercan Havaliman’na 30 dk mesafede Girne ‘nin kalbinde tam pansiyon butik hizmet anlayışı ile misafirlerini ağırlamaya devam ediyor. 25 dönüm alana yayılmış tatil cennetinde; Maldiv Evleri, Swim-up odaları, geniş süit alternatifleri ile farklı konaklama alternatifleri sunan Les Ambassadeurs Hotel, balayı çiftlerinin de gözdesi…Ada’nın ilk ve tek 150 yat kapasitesine sahip marinası olan tesis , eğlenceli port alanıyla da ilgi çekiyor. Birbirinden lezzetli alacarte restoranları, Kıbrıs’ın en iyi gece kulübü News Club ile misafirlerini eğlencenin doruklarına çıkarıyor.Les Ambassadeurs Hotel & Casino & Marina konforlu konaklama alanları, marina imkanı ve eğlence seçenekleri ile sizleri bekliyor",
+        "ar": "يواصل فندق Les Ambassadeurs، الذي افتتح أبوابه في عام 2017، الترحيب بضيوفه من خلال نهج الخدمة البوتيكية للإقامة الكاملة في قلب كيرينيا، على بعد 30 دقيقة من مطار إركان. في جنة العطلات الممتدة على مساحة 25 دونمًا؛ فندق Les Ambassadeurs، الذي يقدم بدائل مختلفة للإقامة مع منازل مالديفية وغرف للسباحة وبدائل أجنحة كبيرة، يعد أيضًا المفضل لدى الأزواج الذين يقضون شهر العسل... المنشأة، وهي المرسى الأول والوحيد في الجزيرة بسعة 150 يختًا، يجذب الانتباه أيضًا بمنطقة الميناء الترفيهية. يأخذ ضيوفه إلى قمة الترفيه مع مطاعمه اللذيذة ونادي الأخبار، أفضل ملهى ليلي في قبرص. ينتظرك فندق وكازينو ومارينا Les Ambassadeurs بمناطق الإقامة المريحة ومرافق المرسى وخيارات الترفيه.",
+        "ru": "Отель Les Ambassadeurs, открывший свои двери в 2017 году, продолжает приветствовать своих гостей с полным пансионом в центре Кирении, в 30 минутах езды от аэропорта Эрджан. Райский курорт раскинулся на площади 25 гектаров; Отель Les Ambassadeurs, предлагающий различные варианты размещения: мальдивские дома, номера у бассейна и большие люксы, также является фаворитом среди молодоженов... Этот отель представляет собой первую и единственную пристань для яхт на острове, вмещающую 150 яхт. также привлекает внимание своей развлекательной портовой территорией. Он переносит своих гостей на пик развлечений благодаря своим восхитительным ресторанам с обслуживанием по меню, а News Club, лучший ночной клуб на Кипре, Les Ambassadeurs Hotel & Casino & Marina ждет вас с комфортабельными номерами, удобствами для яхт и развлекательными заведениями.",
+        "uk": "Готель Les Ambassadeurs, який відкрив свої двері в 2017 році, продовжує радо приймати своїх гостей за допомогою повного пансіону в центрі Кіренії, за 30 хвилин їзди від аеропорту Еркан. У курортному раю, що розкинувся на площі 25 дка; Готель Les Ambassadeurs, який пропонує різні варіанти розміщення, включаючи мальдівські будинки, номери у басейні та великі варіанти люксів, також є улюбленим серед молодят... Цей заклад є першою та єдиною пристанню на острові з місткістю 150 яхт, також привертає увагу своєю розважальною портовою зоною. Він переносить своїх гостей на вершину розваг завдяки своїм смачним ресторанам ala carte і найкращому нічному клубу на Кіпрі Les Ambassadeurs Hotel & Casino & Marina."
       }
     },
     {
