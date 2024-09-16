@@ -928,54 +928,54 @@
     },
     {
       "id": 11,
-      "type": "Activities",
+      "type": "Hotel",
       "name": {
-        "en": "Go Kart",
-        "tr": "Go Kart",
-        "ar": "Go Kart",
-        "ru": "Go Kart ",
-        "uk": "Go Kart "
+        "en": "Kaya Palazzo",
+        "tr": "Kaya Palazzo",
+        "ar": "Kaya Palazzo",
+        "ru": "Kaya Palazzo  ",
+        "uk": "Kaya Palazzo  "
       },
       "address": "88RC+JQG, Girne 99300",
-      "website": "https://tr.wikipedia.org/wiki/Girne_Kalesi",
+      "website": "https://www.kayapalazzohotels.com/kaya-palazzo-resort-casino-girne/",
       "location": {
         "latitude": "45.5155",
         "longitude": "-122.6793"
       },
-      "mainImage": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/1.jpg",
+      "mainImage": "https://www.kayapalazzohotels.com/wp-content/uploads/2023/10/kaya-palazzo-resort-casino-girne-genel-2-2.jpg",
 
       "images": [
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/1.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/2.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/3.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/4.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/5.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/GirneCastle/6.jpg"
+        "https://www.kayapalazzohotels.com/wp-content/uploads/2023/10/kaya-palazzo-resort-casino-girne-genel-2-2.jpg",
+        "https://www.kayapalazzohotels.com/wp-content/uploads/2023/10/kaya-palazzo-resort-casino-girne-genel-2-2.jpg",
+        "https://www.kayapalazzohotels.com/wp-content/uploads/2023/10/kaya-palazzo-resort-casino-girne-genel-4.jpg",
+        "https://www.kayapalazzohotels.com/wp-content/uploads/2023/10/kaya-palazzo-resort-casino-girne-banner-3.png",
+        "https://www.kayapalazzohotels.com/wp-content/uploads/2023/10/kaya-palazzo-resort-casino-girne-odalar-10.jpg",
+        "https://www.kayapalazzohotels.com/wp-content/uploads/2023/10/kaya-palazzo-resort-casino-girne-odalar-11.jpg"
       ],
       "openTimes": [
-        {"day": "Monday", "open": "08:00", "close": "18:00"},
-        {"day": "Tuesday", "open": "08:00", "close": "18:00"},
-        {"day": "Wednesday", "open": "08:00", "close": "18:00"},
-        {"day": "Thursday", "open": "15:00", "close": "23:59"},
-        {"day": "Friday", "open": "08:00", "close": "18:00"},
-        {"day": "Saturday", "open": "08:00", "close": "18:00"},
-        {"day": "Sunday", "open": "23:59", "close": "23:59"}
+        {"day": "Monday", "open": "00:00", "close": "23:59"},
+        {"day": "Tuesday", "open": "00:00", "close": "23:59"},
+        {"day": "Wednesday", "open": "00:00", "close": "23:59"},
+        {"day": "Thursday", "open": "00:00", "close": "23:59"},
+        {"day": "Friday", "open": "00:00", "close": "23:59"},
+        {"day": "Saturday", "open": "00:00", "close": "23:59"},
+        {"day": "Sunday", "open": "00:00", "close": "23:59"}
       ],
       "expectations": {
-        "outsideArea": false,
+        "outsideArea": true,
         "insideArea": true,
-        "reservation": false,
-        "kidsMenu": false,
-        "babySit": false,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
         "kardPay": true,
         "cash": true,
         "freeParkArea": true,
-        "bar": false,
-        "coffee": false,
-        "dessert": false,
-        "kitchen": false,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
         "WheelchairAccessibleEntrance": true,
-        "petsAllow": true
+        "petsAllow": false
       },
       "sorting": {
         "popular": true,
@@ -983,7 +983,7 @@
         "kyrenia": true
       },
       "currency": true,
-      "map": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x14de6d2d28bd6537:0xaf7668b29e725e70?sa=X&ved=1t:8290&ictx=111",
+      "map": "https://www.google.com/maps/place/Kaya+Palazzo+Resort+%26+Casino+Girne/@35.3477635,33.2620125,17z/data=!3m1!4b1!4m6!3m5!1s0x14de6d2aa2b08e73:0xc5208841c2b95af1!8m2!3d35.3477592!4d33.2645874!16s%2Fg%2F11g0lljscn?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D",
       "mail": "",
       "phone": "",
       "whatsapp": "",
@@ -994,11 +994,11 @@
         "pinterest": ""
       },
       "description": {
-        "en": "The House Restaurant, situated in the centre of Kyrenia, is the town’s premier venue for stylish and innovative international cuisine. Designed by RPW, renowned UK interior designers in the field of hospitality, The House delivers a charming blend of old Cypriot tradition and modern chic. Each room of the restaurant has a different quirky style, from low-light and intimate to brash and breezy, and all are enhanced with art-work from around the world. The eclectic visual richness is reflected in the menus which offer an exciting blend of Cypriot/Turkish and international cuisine. The drinks menu is amongst the richest on the island and the consummate staff are adept at mixing the world’s favourite cocktails.",
-        "tr": "Girne'nin merkezinde yer alan The House Restaurant, şık ve yenilikçi uluslararası mutfağıyla kasabanın önde gelen mekanıdır. İngiltere'nin tanınmış iç mimarlık firması RPW tarafından tasarlanan The House, eski Kıbrıs geleneği ile modern şıklığı büyüleyici bir şekilde harmanlıyor. Restoranın her odası, düşük ışıkta samimiden gürültülü ve esintiliye kadar farklı bir tuhaf stile sahip ve hepsi dünyanın dört bir yanından gelen sanat eserleriyle zenginleştirilmiştir. Eklektik görsel zenginlik, Kıbrıs/Türk ve uluslararası mutfağın heyecan verici bir karışımını sunan menülere yansımaktadır. Ada'nın en zengin içecek menülerinden birine sahip olan The House, dünyanın en sevilen kokteyllerini hazırlamakta ustalaşmış personeliyle ünlüdür.",
-        "ar": "يقع مطعم The House في وسط كيرينيا، وهو المكان الأول في المدينة للمأكولات العالمية الأنيقة والمبتكرة. صممه RPW، المصممون الداخليين البريطانيين المشهورين في مجال الضيافة، يجمع The House بين تقاليد قبرص القديمة والأناقة العصرية بشكل ساحر. كل غرفة في المطعم لها أسلوب غريب مختلف، من الإضاءة الخافتة والحميمية إلى الجريء والنشط، وجميعها معززة بالأعمال الفنية من جميع أنحاء العالم. تنعكس الثروة البصرية الانتقائية في القوائم التي تقدم مزيجاً مثيراً من المأكولات القبرصية/التركية والعالمية. قائمة المشروبات هي من بين الأغنى في الجزيرة والموظفون المتقنون ماهرون في مزج الكوكتيلات المفضلة في العالم.",
-        "ru": "Ресторан The House, расположенный в центре Кирении, является главным местом в городе для стильной и инновационной международной кухни. Разработанный RPW, известными британскими дизайнерами интерьеров в области гостеприимства, The House предлагает очаровательное сочетание старых кипрских традиций и современного шика. Каждая комната ресторана имеет свой неповторимый стиль, от мягкого и интимного до яркого и ветреного, и все они украшены произведениями искусства со всего мира. Эклектичное визуальное богатство отражено в меню, предлагающем захватывающее сочетание кипрско-турецкой и международной кухни. Меню напитков является одним из самых богатых на острове, а опытный персонал мастерски смешивает любимые коктейли мира.",
-        "uk": "Ресторан The House, розташований у центрі Кіренії, є головним закладом міста для стильної та інноваційної міжнародної кухні. Спроектований RPW, відомими британськими дизайнерами інтер'єрів у сфері гостинності, The House пропонує чарівне поєднання старих кіпрських традицій і сучасного шику. Кожна кімната ресторану має свій унікальний стиль, від приглушеного і затишного до яскравого і вітряного, і всі вони прикрашені творами мистецтва з усього світу. Еклектичне візуальне багатство відображене в меню, яке пропонує захоплююче поєднання кіпрсько-турецької та міжнародної кухні. Меню напоїв є одним з найбагатших на острові, а досвідчений персонал майстерно змішує улюблені коктейлі світу."
+        "en": "Concept: Full Board Plus and Bed and Breakfast: Kaya Palazzo Resort & Casino, with its location overlooking the sea in the center of Kyrenia, the favorite of Cyprus, offers an unforgettable holiday experience with its privileges and specially designed rooms for comfort that make every moment of its guests enjoyable. With its privileged pier and beach, pavilions special to its guests and exclusive a la carte restaurants, Kaya Palazzo Kyrenia has everything you need for a pleasant family holiday… Its rooms with sea view, Grand, King and Royal Suites as well as Duplex, King and Royal Swim up Suites, enjoyable activities for children, magnificent SPA facilities and functional meeting rooms make Kaya Palazzo Kyrenia the only address for a holiday in the most beautiful location of the island for guests of all ages. Kaya Palazzo Kyrenia, which has many famous restaurants, awaits you, our valued guests.",
+        "tr": "Konsept: Tam Pansiyon Plus ve Oda Kahvaltı : Kıbrıs’ın gözdesi Girne’nin merkezinde denize nazır konumuyla Kaya Palazzo Resort & Casino, misafirlerinin her anına keyif veren ayrıcalıkları ve konforu için özel olarak tasarlanmış odalarıyla unutulmaz bir tatil deneyimi sunuyor. Ayrıcalıklı hizmet veren iskele ve kumsalıyla, misafirlerine özel pavilionları ve seçkin alakart restoranlarıyla keyifli bir aile tatili için aranılan her şey Kaya Palazzo Girne’de…Deniz manzaralı odaları, Grand, King ve Royal Suitelerinin yanı sıra Dublex, King ve Royal Swim up Suitleri, çocuklar için keyifli aktiviteleri, muhteşem SPA olanakları ve işlevsel toplantı salonları Kaya Palazzo Girne’yi, her yaştan konuğu için adanın en güzel lokasyonunda tatilin tek adresi yapıyor.Birbirinden ünlü restoranların yer aldığı Kaya Palazzo Girne, siz değerli misafirlerini bekliyor.",
+        "ar": "المفهوم: إقامة كاملة بالإضافة إلى سرير وإفطار: بموقعه على الواجهة البحرية في وسط كيرينيا، المفضلة لدى قبرص، يقدم منتجع وكازينو Kaya Palazzo تجربة عطلة لا تُنسى مع غرفه المصممة خصيصًا لتوفير الراحة والامتيازات التي تجعل كل لحظة من ضيوفها ممتعة. كل ما تحتاجه لقضاء عطلة عائلية ممتعة موجود في Kaya Palazzo Kyrenia، مع رصيفه البحري وشاطئه المميزين، وأجنحته الخاصة لضيوفه والمطاعم الانتقائية الحصرية... الغرف المطلة على البحر، والأجنحة الكبرى والملكية والملكية، بالإضافة إلى الدوبلكس وأجنحة السباحة الملكية والملكية والأنشطة الممتعة للأطفال ومرافق السبا الرائعة وغرف الاجتماعات العملية تجعل من Kaya Palazzo Kyrenia وجهة العطلات الوحيدة في أجمل موقع بالجزيرة للضيوف من جميع الأعمار، مع مطاعمه الشهيرة ، في انتظاركم ضيوفنا الكرام.",
+        "ru": "Концепция: Полный пансион Плюс и Проживание и завтрак: Расположенный на берегу моря в центре Кирении, любимой территории Кипра, отель Kaya Palazzo Resort & Casino предлагает незабываемые впечатления от отдыха в своих номерах, специально спроектированных для комфорта и привилегий, которые делают каждое мгновение незабываемым. его гости приятны. Все, что вам нужно для приятного семейного отдыха, есть в Kaya Palazzo Kyrenia с его привилегированным пирсом и пляжем, специальными павильонами для гостей и эксклюзивными ресторанами с обслуживанием по меню... Номера с видом на море, люксы Grand, King и Royal Suite, а также дуплексы , королевские и королевские люксы у бассейна, развлечения для детей, великолепные спа-центры и функциональные конференц-залы делают Kaya Palazzo Kyrenia единственным местом отдыха в самом красивом месте острова для гостей всех возрастов с его знаменитыми ресторанами. , ждет вас, наши уважаемые гости.",
+        "uk": "Концепція: «Повний пансіон плюс» і «ліжко та сніданок». Розташований на березі моря в центрі Кіренії, улюбленої на Кіпрі, Kaya Palazzo Resort & Casino пропонує незабутні враження від відпочинку завдяки своїм номерам, спеціально розробленим для комфорту та привілеїв, які роблять кожну мить його гостям приємно. Все, що вам потрібно для приємного сімейного відпочинку, є в Kaya Palazzo Kyrenia з його привілейованим пірсом і пляжем, спеціальними павільйонами для гостей і ексклюзивними ресторанами à la carte... Номери з видом на море, люкси Grand, King і Royal, а також дуплекси , люкси King і Royal Swim-up, розважальні заходи для дітей, чудові спа-центри та функціональні конференц-зали роблять Kaya Palazzo Kyrenia єдиним місцем відпочинку в найкрасивішому місці острова для гостей будь-якого віку з його знаменитими ресторанами , чекає на вас, наші дорогі гості."
       }
     }
   ]
