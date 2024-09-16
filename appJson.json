@@ -1074,6 +1074,79 @@
         "ru": "Мы находимся в Северной Никосии, в 5 минутах от центра города с 2004 года. Наша открытая трасса длиной 1650 м, спроектированная по стандартам CIK/FIA. Вы можете гонять на наших картах каждый день недели. Кроме того, мы предлагаем широкий спектр услуг компаниям и учреждениям, от небольших организаций до крупных турниров. С системой хронометража на нашей трассе вы можете сравнить свои результаты в конце гонки с результатами ваших друзей и улучшить себя. Если вы хотите, вы можете продолжить этот вид спорта на наших профессиональных картах в сопровождении наших тренеров, участвовать в чемпионатах и ​​развивать свою собственную карьеру. Не забывайте, что даже мастера Формулы 1 обучаются картингу.",
         "uk": "Ми знаходимося в Північній Нікосії. і в 5 хвилинах їзди від центру міста з 2004 року. Наша відкрита траса довжиною 1650 м розроблена за стандартами CIK/FIA. Ви можете брати участь у перегонах з нашими картингами кожного дня тижня. Крім того, ми пропонуємо широкий спектр послуг компаніям і установам, від невеликих організацій до великих турнірів. Завдяки системі хронометражу на нашій трасі ви можете порівняти свої результати наприкінці гонки з результатами своїх друзів і покращити себе. Якщо ви хочете, ви можете продовжити цей вид спорту на наших професійних картингах у супроводі наших тренерів, брати участь у чемпіонатах і розвивати власну кар'єру. Не забувайте, що навіть майстерні гонщики Формули-1 проходять навчання в картингу."
       }
+    },
+    {
+      "id": 13,
+      "type": "Activities",
+      "name": {
+        "en": "Cyprus Paintball",
+        "tr": "Cyprus Paintball",
+        "ar": "Cyprus Paintball",
+        "ru": "Cyprus Paintball",
+        "uk": "Cyprus Paintball"
+      },
+      "address": "88RC+JQG, Girne 99300",
+      "website": "https://cemsakartingcenter.com/",
+      "location": {
+        "latitude": "45.5155",
+        "longitude": "-122.6793"
+      },
+      "mainImage": "https://i0.wp.com/paintballcyprus.com/nic/wp-content/uploads/sites/1/2018/03/slider1-1.jpg?w=1420&ssl=1",
+
+      "images": [
+        "https://i0.wp.com/paintballcyprus.com/nic/wp-content/uploads/sites/1/2018/03/slider1-1.jpg?w=1420&ssl=1",
+        "https://i0.wp.com/paintballcyprus.com/nic/wp-content/uploads/sites/1/2018/03/slider3.jpg?w=1420&ssl=1",
+        "https://i0.wp.com/paintballcyprus.com/nic/wp-content/uploads/sites/1/2018/03/23472707_10155693600807906_852008819953600125_n.jpg?fit=960%2C720&ssl=1",
+        "https://i0.wp.com/paintballcyprus.com/nic/wp-content/uploads/sites/1/2018/03/20170409_112625.jpg?fit=1422%2C800&ssl=1"
+      ],
+      "openTimes": [
+        {"day": "Monday", "open": "08:00", "close": "18:00"},
+        {"day": "Tuesday", "open": "08:00", "close": "18:00"},
+        {"day": "Wednesday", "open": "08:00", "close": "18:00"},
+        {"day": "Thursday", "open": "08:00", "close": "18:00"},
+        {"day": "Friday", "open": "08:00", "close": "18:00"},
+        {"day": "Saturday", "open": "08:00", "close": "18:00"},
+        {"day": "Sunday", "open": "08:00", "close": "18:00"}
+      ],
+      "expectations": {
+        "outsideArea": true,
+        "insideArea": true,
+        "reservation": true,
+        "kidsMenu": true,
+        "babySit": true,
+        "kardPay": true,
+        "cash": true,
+        "freeParkArea": true,
+        "bar": true,
+        "coffee": true,
+        "dessert": true,
+        "kitchen": true,
+        "WheelchairAccessibleEntrance": true,
+        "petsAllow": false
+      },
+      "sorting": {
+        "popular": true,
+        "alcohol": true,
+        "kyrenia": true
+      },
+      "currency": true,
+      "map": "https://www.google.com/maps/place/Cyprus+Paintball+Arena/@35.2206677,33.2473609,12z/data=!4m10!1m2!2m1!1spaintball!3m6!1s0x14de04aa1503d48b:0xb36661045e4c44d8!8m2!3d35.1186097!4d33.2544166!15sCglwYWludGJhbGySARBwYWludGJhbGxfY2VudGVy4AEA!16s%2Fg%2F11ckqrms70?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D",
+      "mail": "",
+      "phone": "",
+      "whatsapp": "",
+      "socialMedias": {
+        "instagram": "",
+        "twitter": "",
+        "facebook": "",
+        "pinterest": ""
+      },
+      "description": {
+        "en": "With over 12 years of experience Cyprus Paintball - Nicosia is proudly considered the pioneer of paintball in Cyprus, having the largest paintball field on the island, divided in 4 large theme arenas with various amateur and advance scenarios.",
+        "tr": "12 yılı aşkın deneyimiyle Kıbrıs Paintball - Lefkoşa, Kıbrıs'ta paintball'un öncüsü olarak gururla kabul ediliyor ve adanın en büyük paintball sahasına sahip olup, çeşitli amatör ve ileri seviye senaryolarla 4 büyük tema arenasına ayrılmıştır.",
+        "ar": "مع أكثر من 12 عامًا من الخبرة، تعتبر Cyprus Paintball - Nicosia بفخر رائدة في لعبة Paintball في قبرص، حيث تمتلك أكبر ملعب للعبة Paintball في الجزيرة، والذي ينقسم إلى 4 ساحات كبيرة ذات طابع خاص مع سيناريوهات مختلفة للهواة والمتقدمين.",
+        "ru": "Имея более чем 12-летний опыт работы в пейнтболе на Кипре, Никосия по праву считается пионером пейнтбола на Кипре, имея самое большое пейнтбольное поле на острове, разделенное на 4 большие тематические арены с различными сценариями для любителей и продвинутых игроков.",
+        "uk": "Завдяки більш ніж 12-річному досвіду Cyprus Paintball - Нікосія з гордістю вважається піонером пейнтболу на Кіпрі, маючи найбільше пейнтбольне поле на острові, розділене на 4 великі тематичні арени з різними аматорськими та продвинутими сценаріями."
+      }
     }
   ]
 }
